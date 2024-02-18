@@ -6,7 +6,7 @@ Module A:
 1. Fastp(0.23.4) was used for quality control, the parameter --adapter_sequence AGTCGGAGGCCAAGCGGTCTTAGGAAGACAA was used to remove adapters.
 2. Bowtie2(2.3.5.1) was used to remove human sequences to improve microbiome enrichment level. The reference genome of human is hg38.
 3. Kraken2(2.1.3) was used to get taxonomic information by mapping to "standard", "pluspf" and  "eupathdb" databases respectively.
-4. Bracken(2.9) was used to execute microbiome abundance on the species level.
+4. Bracken(2.9) was used to estimate microbiome abundance on the species level.
 
 All taxonomic abundance results then be combined to get overall results by Krakentools(1.2).
 
