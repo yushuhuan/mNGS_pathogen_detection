@@ -10,7 +10,7 @@ Module A:
 
 All taxonomic abundance results then be combined to get overall results by Krakentools(1.2).
 
-To get eyes-related pathogens, a filter step was designed by using filter_bracken.out.py in Krakentools(1.2), setting the parameters --include and --include could get interested taxonomic results.
+To get eyes-related pathogens, a filter step was designed by using filter_bracken.out.py in Krakentools(1.2), setting the parameters --include and --exclude could get interested taxonomic results.
 
-Filtered abundance tables were combined by combine_kreports.py in Krakentools(1.2). Then using Krona(2.8.1) tranfer bracken results to krona format. It can be viewed visually in the browser.
+Filtered abundance tables were combined by combine_kreports.py in Krakentools(1.2). Then use ImportTaxonomy.pl in Krona(2.8.1) tranfer bracken results to krona format(html). It can be viewed visually in the browser.
 
