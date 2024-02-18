@@ -1,5 +1,5 @@
 # DNA-based_mNGS_pathogen_detection
-For DNA-based mNGS analysis pipeline:
+For DNA-based mNGS analysis pipeline(Aliyun):
 
 A general analysis module was designed to obtain microbiome abundance in the sample.
 Module A:
@@ -14,3 +14,12 @@ To get eyes-related pathogens, a filter step was designed by using filter_bracke
 
 Filtered abundance tables were combined by combine_kreports.py in Krakentools(1.2). Then use ImportTaxonomy.pl in Krona(2.8.1) tranfer bracken results to krona format(html). It can be viewed visually in the browser.
 
+Docker record:
+
+Softwares version:
+  fastp 0.20.1
+  bowtie2 2.4.4
+  kraken2 2.1.2
+  bracken 2.9
+  krona 2.8.1
+  krakentools 1.2
