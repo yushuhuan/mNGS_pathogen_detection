@@ -1,0 +1,341 @@
+species	label	speciescn
+[Candida] glabrata	Pathogenicity	光滑念珠菌
+Abiotrophia defectiva	Both	缺陷乏养菌
+Acanthamoeba castellanii	Both	卡氏棘阿米巴
+Acinetobacter baumannii	Both	鲍曼不动杆菌
+Acinetobacter bereziniae	Background	别雷斯不动杆菌
+Acinetobacter haemolyticus	Both	溶血不动杆菌
+Acinetobacter johnsonii	Both	约氏不动杆菌
+Acinetobacter junii	Both	琼氏不动杆菌
+Acinetobacter lwoffii	Background	鲁氏不动杆菌
+Acinetobacter pittii	Pathogenicity	皮特不动杆菌
+Acinetobacter radioresistens	Both	抗辐射不动杆菌
+Acinetobacter schindleri	Background	schindleri不动杆菌属
+Acinetobacter seifertii	Background	赛氏不动杆菌
+Acinetobacter soli	Background	单不动杆菌
+Acinetobacter ursingii	Background	乌尔新不动杆菌
+Adeno-associated dependoparvovirus A	Background	-
+Aeromonas caviae	Pathogenicity	豚鼠气单胞菌
+Aeromonas hydrophila	Pathogenicity	嗜水气单胞菌
+Aeromonas jandaei	Pathogenicity	简氏气单胞菌
+Aeromonas veronii	Pathogenicity	维氏气单胞菌
+Aggregatibacter aphrophilus	Pathogenicity	嗜沫凝聚杆菌
+Alphapapillomavirus 2	Background	甲型乳头瘤病毒2型
+Alphapapillomavirus 4	Background	甲型乳头瘤病毒4型
+Alphapapillomavirus 9	Background	甲型乳头瘤病毒9型
+Alphapolyomavirus octihominis	Background	人类多瘤病毒8型
+Alphapolyomavirus quintihominis	Background	人类多瘤病毒5型
+Alternaria alternata	Both	互隔交链孢霉/烟草赤星病菌
+Alternaria arborescens	Both	乔木链格孢
+Anaerococcus hydrogenalis	Both	产氢厌氧球菌
+Anaerococcus prevotii	Both	普氏厌氧球菌
+Aspergillus flavus	Both	黄曲霉
+Aspergillus fumigatus	Both	烟曲霉
+Aspergillus nidulans	Both	构巢曲霉
+Aspergillus niger	Both	黑曲霉
+Aspergillus pseudonomiae	Pathogenicity	A. pseudonomius
+Aspergillus ruber	Pathogenicity	Aspergillus_ruber
+Aspergillus terreus	Both	土曲霉
+Aspergillus thermomutatus	Pathogenicity	Aspergillus thermomutatus
+Aspergillus tubingensis	Both	塔宾曲霉
+Aspergillus versicolor	Pathogenicity	花斑曲霉
+Aureobasidium namibiae	Background	Aureobasidium namibiae
+Aureobasidium pullulans	Background	黑酵母菌
+Aureobasidium
+pullulans	Pathogenicity	黑酵母菌
+Bacillus altitudinis	Both	高地芽孢杆菌
+Bacillus cereus	Both	蜡样芽孢杆菌
+Bacillus cereus group	Both	蜡样芽孢杆菌复合群
+Bacillus pseudomycoides	Both	假真菌样芽胞杆菌/假蕈状芽胞杆菌
+Bacillus pumilus	Both	短小芽胞杆菌
+Bacillus subtilis	Pathogenicity	枯草芽孢杆菌
+Bartonella henselae	Both	汉赛巴尔通体
+Beauveria rudraprayagi	Both	Beauveria rudraprayagi
+Betapapillomavirus 1	Background	β-乳头瘤病毒1型
+Betapapillomavirus 2	Background	β-乳头瘤病毒2型
+Betapapillomavirus 3	Background	β-乳头瘤病毒3型
+Betapolyomavirus hominis	Background	BK病毒
+Betapolyomavirus secuhominis	Background	人多瘤病毒2型(JC病毒)
+Borreliella burgdorferi	Pathogenicity	伯氏疏螺旋体
+Brevibacillus agri	Pathogenicity	土壤短芽孢杆菌
+Brevibacillus brevis	Both	短短芽孢杆菌
+Brucella melitensis	Pathogenicity	羊布氏杆菌
+Burkholderia cepacia	Pathogenicity	洋葱伯克霍尔德菌
+Campylobacter ureolyticus	Both	解脲弯曲杆菌
+Candida albicans	Both	白色念珠菌
+Candida glabrata	Background	光滑念珠菌
+Candida haemuloni	Background	假丝酵母
+Candida orthopsilosis	Background	拟平滑念珠菌
+Candida parapsilosis	Both	近平滑念珠菌
+Candida tropicalis	Both	热带念珠菌
+Capnocytophaga sputigena	Pathogenicity	生痰二氧化碳噬纤维菌
+Cellulosimicrobium cellulans	Both	纤维化纤维微细菌
+Chaetomium globosum	Both	球毛壳霉菌
+Chlamydia psittaci	Pathogenicity	鹦鹉热衣原体
+Chlamydia trachomatis	Background	沙眼衣原体
+Citrobacter freundii	Both	弗氏柠檬酸杆菌
+Citrobacter koseri	Pathogenicity	柯氏柠檬酸杆菌
+Cladosporium cladosporioides	Background	枝孢霉菌
+Clavispora lusitaniae	Background	葡萄牙念珠菌
+Clostridium perfringens	Both	产气荚膜梭菌
+Colletotrichum fructicola	Both	果生刺盘孢菌
+Corynebacterium accolens	Background	拥挤棒杆菌
+Corynebacterium afermentans	Background	非发酵棒杆菌
+Corynebacterium ammoniagenes	Background	产氨棒杆菌
+Corynebacterium amycolatum	Background	无枝菌酸棒杆菌
+Corynebacterium argentoratense	Background	银色棒杆菌
+Corynebacterium aurimucosum	Background	C. aurimucosum
+Corynebacterium belfantii	Background	-
+Corynebacterium casei	Background	乳酪短杆菌
+Corynebacterium durum	Background	坚硬棒状杆菌
+Corynebacterium falsenii	Background	falsenii棒状杆菌
+Corynebacterium flavescens	Background	微黄棒杆菌
+Corynebacterium freneyi	Background	C. freneyi
+Corynebacterium glaucum	Background	深紫棒杆菌
+Corynebacterium glutamicum	Background	谷氨酸棒杆菌
+Corynebacterium godavarianum	Background	-
+Corynebacterium halotolerans	Background	耐盐棒杆菌
+Corynebacterium heidelbergense	Background	-
+Corynebacterium jeikeium	Background	杰氏棒杆菌
+Corynebacterium kefirresidentii	Background	C. kefirresidentii
+Corynebacterium kroppenstedtii	Background	柯氏棒状杆菌
+Corynebacterium kutscheri	Background	库氏棒状杆菌
+Corynebacterium lipophiloflavum	Background	嗜脂黄棒杆菌
+Corynebacterium macginleyi	Both	麦氏棒杆菌
+Corynebacterium massiliense	Background	-
+Corynebacterium matruchotii	Background	马棒状杆菌
+Corynebacterium minutissimum	Background	微小棒状杆菌
+Corynebacterium otitidis	Background	C. otitidis
+Corynebacterium phoceense	Background	-
+Corynebacterium pollutisoli	Background	-
+Corynebacterium propinquum	Background	接近棒状杆菌
+Corynebacterium pseudodiphtheriticum	Background	假白喉棒状杆菌
+Corynebacterium pseudogenitalium	Background	C. pseudogenitalium
+Corynebacterium pyruviciproducens	Background	-
+Corynebacterium resistens	Background	C. resistens
+Corynebacterium riegelii	Background	C. riegelii
+Corynebacterium segmentosum	Background	横裂棒状杆菌
+Corynebacterium simulans	Background	模仿棒状杆菌
+Corynebacterium singulare	Background	单独棒杆菌
+Corynebacterium stationis	Background	停滞棒杆菌
+Corynebacterium striatum	Both	纹带棒状杆菌
+Corynebacterium timonense	Background	-
+Corynebacterium tuberculostearicum	Background	结核硬脂酸棒状杆菌
+Corynebacterium tuscaniense	Background	C. tuscaniense
+Corynebacterium urealyticum	Background	解脲棒杆菌
+Corynebacterium ureicelerivorans	Background	C. ureicelerivorans
+Corynebacterium variabile	Background	变异棒状杆菌
+Corynebacterium xerosis	Background	干燥棒状杆菌
+Corynespora cassiicola	Pathogenicity	C.cassiicola
+Cowpox virus	Pathogenicity	牛痘病毒
+Cryptococcus neoformans	Pathogenicity	新型隐球菌
+Cutibacterium acnes	Both	痤疮丙酸杆菌
+Cutibacterium granulosum	Background	颗粒状皮肤杆菌
+Cutibacterium modestum	Background	C.modestum
+Cutibacterium namnetense	Background	-
+Diaporthe ampelina	Background	-
+Encephalitozoon hellem	Both	海伦脑炎微孢子虫
+Enterobacter cancerogenus	Pathogenicity	生癌肠杆菌
+Enterobacter cloacae	Both	阴沟肠杆菌
+Enterobacter cloacae complex	Pathogenicity	阴沟肠杆菌复合体
+Enterobacter hormaechei	Both	霍氏肠杆菌
+Enterobacter ludwigii	Both	路德维希肠杆菌
+Enterococcus casseliflavus	Both	酪黄肠球菌
+Enterococcus faecalis	Both	粪肠球菌
+Enterococcus faecium	Pathogenicity	屎肠球菌
+Enterococcus gallinarum	Both	鹑鸡肠球菌
+Escherichia coli	Both	大肠埃希菌
+Exophiala alcalophila	Pathogenicity	Exophiala alcalophila
+Finegoldia magna	Both	大芬戈尔德菌
+Fusarium asiaticum	Background	亚洲镰刀菌
+Fusarium coffeatum	Pathogenicity	F. coffeatum
+Fusarium equiseti	Both	木贼镰刀菌
+Fusarium euwallaceae	Both	-
+Fusarium graminearum	Both	禾谷镰刀菌
+Fusarium oxysporum	Both	尖孢镰刀菌
+Fusarium proliferatum	Both	层生镰刀菌
+Fusarium solani	Both	茄病镰刀菌
+Fusarium verticillioides	Both	轮枝镰刀菌
+Gardnerella vaginalis	Pathogenicity	阴道加德纳菌
+Gemella haemolysans	Pathogenicity	溶血孪生球菌
+Gemella sanguinis	Both	血孪生球菌
+Gordonia sputi	Pathogenicity	痰液戈登菌
+Granulicatella adiacens	Pathogenicity	毗邻颗粒链菌
+Haemophilus influenzae	Both	流感嗜血杆菌
+Haemophilus parahaemolyticus	Pathogenicity	副溶血嗜血杆菌
+Haemophilus parainfluenzae	Pathogenicity	副流感嗜血杆菌
+Hepatitis B virus	Both	乙型肝炎病毒
+Human alphaherpesvirus 1	Both	人疱疹病毒1型/单纯疱疹病毒1型
+Human alphaherpesvirus 2	Both	人疱疹病毒2型/单纯疱疹病毒2型
+Human alphaherpesvirus 3	Both	水痘-带状疱疹病毒
+Human betaherpesvirus 5	Background	CMV/巨细胞病毒
+Human betaherpesvirus 6	Background	人疱疹病毒6型
+Human betaherpesvirus 6A	Pathogenicity	人疱疹病毒6A
+Human betaherpesvirus 6B	Pathogenicity	人疱疹病毒 6B
+Human betaherpesvirus 7	Both	人疱疹病毒7型
+Human coronavirus NL63	Background	人类冠状病毒NL63
+Human gammaherpesvirus 4	Background	EBV
+Human immunodeficiency virus	Pathogenicity	艾滋病毒
+Human mastadenovirus C	Pathogenicity	人哺乳动物腺病毒C
+Human mastadenovirus D	Both	人哺乳动物腺病毒D/人类腺病毒D
+Human mastadenovirus E	Pathogenicity	人哺乳动物腺病毒E
+Influenza A virus	Pathogenicity	A型流感病毒
+Klebsiella aerogenes	Background	产气克雷伯菌
+Klebsiella michiganensis	Background	密歇根克雷伯菌
+Klebsiella oxytoca	Pathogenicity	产酸克雷伯菌
+Klebsiella pneumoniae	Both	肺炎克雷伯菌
+Klebsiella quasipneumoniae	Both	类肺炎克雷伯菌
+Kocuria indica	Background	-
+Kocuria palustris	Background	沼泽库克氏菌
+Kocuria polaris	Background	极考克氏菌
+Kocuria rhizophila	Background	嗜根考克氏菌
+Kocuria rosea	Both	玫瑰色库克氏菌
+Kocuria salsicia	Background	-
+Kocuria turfanensis	Background	-
+Kytococcus sedentarius	Background	坐皮肤球菌
+Lactococcus garvieae	Pathogenicity	格氏乳球菌
+Leclercia adecarboxylata	Background	非脱羧勒克菌
+Legionella hackeliae	Pathogenicity	哈开里军团菌
+Legionella pneumophila	Pathogenicity	嗜肺军团菌
+Leptospira interrogans	Pathogenicity	问号钩端螺旋体
+Leuconostoc citreum	Background	柠檬明串珠菌
+Lichtheimia corymbifera	Pathogenicity	伞状毛霉
+Lichtheimia ramosa	Background	总状横梗霉
+Lodderomyces elongisporus	Both	长孢诺德酵母菌
+Malassezia caprae	Background	-
+Malassezia cuniculi	Background	-
+Malassezia dermatis	Background	-
+Malassezia equina	Background	-
+Malassezia furfur	Background	糠秕马拉色菌
+Malassezia globosa	Background	球形马拉色菌
+Malassezia japonica	Background	日本马拉色菌
+Malassezia restricta	Both	限制性马拉色菌
+Malassezia sympodialis	Background	合轴马拉色菌
+Mammaliicoccus vitulinus	Background	-
+Measles morbillivirus	Pathogenicity	麻疹病毒
+Megasphaera micronuciformis	Pathogenicity	巨球形菌
+Meyerozyma guilliermondii	Both	季也蒙毕赤酵母
+Micrococcus flavus	Background	luteus微球菌
+Micrococcus luteus	Background	藤黄微球菌
+Moraxella catarrhalis	Pathogenicity	卡他莫拉菌
+Moraxella lacunata	Pathogenicity	腔隙莫拉菌
+Moraxella nonliquefaciens	Both	非液化莫拉菌
+Moraxella osloensis	Both	奥斯陆莫拉菌
+Morganella morganii	Pathogenicity	摩氏摩根菌
+Mycobacterium abscessus	Pathogenicity	脓肿分枝杆菌
+Mycobacterium avium	Both	鸟分枝杆菌
+Mycobacterium gordonae	Both	戈登分枝杆菌
+Mycobacterium leprae	Pathogenicity	麻风杆菌
+Mycobacterium paragordonae	Both	副戈登分枝杆菌
+Mycobacterium tuberculosis	Both	结核分枝杆菌
+Mycobacteroides chelonae	Background	龟分枝杆菌
+Mycolicibacterium austroafricanum	Pathogenicity	Mycolicibacterium austroafricanum
+Mycolicibacterium septicum	Pathogenicity	Mycolicibacterium septicum
+Mycolicibacterium vanbaalenii	Pathogenicity	Mycolicibacterium vanbaalenii
+Mycoplasma pneumoniae	Pathogenicity	肺炎支原体
+Neisseria gonorrhoeae	Pathogenicity	淋病奈瑟球菌
+Neisseria meningitidis	Pathogenicity	脑膜炎奈瑟菌
+Neisseria mucosa	Both	黏液奈瑟菌
+Neisseria sicca	Pathogenicity	干燥奈瑟氏球菌
+Nocardia abscessus	Both	脓肿诺卡菌
+Nocardia brasiliensis	Pathogenicity	巴西诺卡菌
+Nocardia farcinica	Both	鼻疽诺卡氏菌
+Nocardia
+cyriacigeorgica	Pathogenicity	盖尔森基兴诺卡氏菌
+Ochroconis constricta	Pathogenicity	O. constricta
+Paenibacillus lautus	Both	灿烂类芽孢杆菌
+Pantoea anthophila	Both	-
+Pantoea dispersa	Pathogenicity	分散泛菌
+Parachlamydia acanthamoebae	Both	棘阿米巴副衣原体
+Penicillium citrinum	Pathogenicity	桔青霉
+Penicillium digitatum	Pathogenicity	指状青霉
+Peptoniphilus harei	Both	海氏嗜胨菌
+Pichia kudriavzevii	Background	克柔氏念珠菌
+Prevotella intermedia	Pathogenicity	中间普雷沃菌
+Prevotella loescheii	Pathogenicity	洛氏普雷沃菌
+Prevotella melaninogenica	Pathogenicity	产黑素普雷沃菌
+Primate erythroparvovirus 1	Background	细小病毒B19
+Primate T-lymphotropic virus 1	Pathogenicity	人T细胞白血病病毒1型
+Propionibacterium acidifaciens	Background	产酸丙酸杆菌
+Propionimicrobium lymphophilum	Background	嗜淋巴丙酸杆菌
+Proteus mirabilis	Pathogenicity	奇异变形杆菌
+Pseudomonas aeruginosa	Both	铜绿假单胞菌
+Purpureocillium lilacinum	Both	P. lilacinum
+Rhizomucor pusillus	Both	微小根毛霉
+Rhodotorula mucilaginosa	Both	胶红酵母
+Roseomonas mucosa	Both	粘液玫瑰单胞菌
+Rothia kristinae	Pathogenicity	Rothia kristinae
+Rubella virus	Pathogenicity	风疹病毒
+Scedosporium apiospermum	Both	尖端赛多孢子菌
+Scedosporium aurantiacum	Both	桔黄赛多孢菌
+Schizophyllum commune	Pathogenicity	裂褶菌
+Serratia marcescens	Both	粘质沙雷氏菌
+Severe acute respiratory syndrome coronavirus 2	Both	新型冠状病毒
+Shewanella algae	Both	海藻希瓦氏菌
+Shewanella putrefaciens	Both	腐败希瓦氏菌
+Sporothrix pallida	Pathogenicity	白孢子丝菌
+Staphylococcus arlettae	Background	阿尔莱特葡萄球菌
+Staphylococcus aureus	Both	金黄色葡萄球菌
+Staphylococcus auricularis	Background	耳葡萄球菌
+Staphylococcus capitis	Both	头状葡萄球菌
+Staphylococcus caprae	Background	山羊葡萄球菌
+Staphylococcus cohnii	Both	科氏葡萄球菌
+Staphylococcus condiment	Pathogenicity	Staphylococcus condiment
+Staphylococcus condimenti	Background	葡萄球菌
+Staphylococcus epidermidis	Both	表皮葡萄球菌
+Staphylococcus equorum	Background	马胃葡萄球菌
+Staphylococcus haemolyticus	Both	溶血葡萄球菌
+Staphylococcus hominis	Both	人型葡萄球菌
+Staphylococcus lugdunensis	Both	路邓葡萄球菌
+Staphylococcus nepalensis	Background	尼泊尔葡萄球菌
+Staphylococcus pasteuri	Background	巴氏葡萄球菌
+Staphylococcus pettenkoferi	Background	S. pettenkoferi葡萄球菌
+Staphylococcus saccharolyticus	Background	解糖葡萄球菌
+Staphylococcus saprophyticus	Both	腐生葡萄球菌
+Staphylococcus simiae	Background	金猿葡萄球菌
+Staphylococcus succinus	Background	琥珀葡萄球菌
+Staphylococcus warneri	Both	沃氏葡萄球菌
+Staphylococcus xylosus	Background	木糖葡萄球菌
+Stenotrophomonas maltophilia	Both	嗜麦芽窄食单胞菌
+Streptococcus agalactiae	Both	无乳链球菌
+Streptococcus anginosus	Both	咽峡炎链球菌
+Streptococcus australis	Both	澳大利亚链球菌
+Streptococcus constellatus	Background	星座链球菌
+Streptococcus cristatus	Both	嵴链球菌
+Streptococcus dysgalactiae	Pathogenicity	停乳链球菌
+Streptococcus equi	Both	马链球菌
+Streptococcus gordonii	Both	戈登链球菌
+Streptococcus halitosis	Pathogenicity	口臭链球菌
+Streptococcus intermedius	Background	中间链球菌
+Streptococcus mitis	Both	缓症链球菌
+Streptococcus oralis	Both	口腔链球菌
+Streptococcus pneumoniae	Both	肺炎链球菌
+Streptococcus pseudopneumoniae	Background	假肺炎链球菌
+Streptococcus pyogenes	Both	化脓链球菌
+Streptococcus salivarius	Both	唾液链球菌
+Streptococcus sanguinis	Both	血红链球菌
+Streptococcus suis	Pathogenicity	猪链球菌
+Streptococcus vestibularis	Pathogenicity	前庭链球菌
+Streptococcus
+intermedius	Pathogenicity	中间链球菌
+Suid alphaherpesvirus 1	Both	猪疱疹病毒1 型/伪狂犬病病毒
+Torque teno midi virus 8	Background	TTMDV
+Torque teno virus	Background	TTV
+Torque teno virus 10	Background	TTV-10
+Torque teno virus 11	Background	TTV-11
+Torque teno virus 12	Background	TTV-12
+Torque teno virus 13	Background	TTV-13
+Torque teno virus 16	Background	TTV-16
+Torque teno virus 18	Background	TTV-18
+Torque teno virus 19	Background	TTV-19
+Torque teno virus 20	Background	TTV-20
+Torque teno virus 22	Background	TTV-22
+Torque teno virus 24	Background	TTV-24
+Torque teno virus 27	Background	TTV-27
+Torque teno virus 29	Background	TTV-29
+Torque teno virus 7	Background	TTV-7
+Toxoplasma gondii	Both	刚地弓形虫
+Treponema pallidum	Both	梅毒螺旋体
+Vittaforma corneae	Both	Vittaforma corneae
+Weizmannia coagulans	Both	凝结芽孢杆菌
+Komagataella pastoris Background 毕赤酵母
