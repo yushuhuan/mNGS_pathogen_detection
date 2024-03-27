@@ -1,6 +1,7 @@
 # DNA-based_mNGS_pathogen_detection
 For DNA-based mNGS analysis pipeline(Aliyun):
 
+V2.0
 A general analysis module was designed to obtain microbiome abundance in the sample.
 Module A:
 1. Fastp(0.23.4) was used for quality control, the parameter --adapter_sequence AGTCGGAGGCCAAGCGGTCTTAGGAAGACAA was used to remove adapters.
@@ -23,3 +24,10 @@ Softwares version:
   bracken 2.9
   krona 2.8.1
   krakentools 1.2
+
+########################################
+V2.1:
+1. Fastp(0.23.4) was used for quality control, the parameter --adapter_sequence AGTCGGAGGCCAAGCGGTCTTAGGAAGACAA was used to remove adapters.
+2. bwa(2.3.5.1) was used to remove human sequences to improve microbiome enrichment level. The reference genome of human is hg38.
+3. Kraken2(2.1.3) was used to get taxonomic information by mapping to "blast/nt" database.
+4. R scripts and shell scripts were used to get more specific information.
