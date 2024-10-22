@@ -125,4 +125,4 @@ attention_level speciescn       tax_id  all_reads       CPM     Rank    Domain  
 
 ## Contribute
 
-Thanks to Prof. TaoYong. Thanks to Xue yong, Qian zhuyun and Wang lu. Thanks for their supporting and helping.
+Thanks to Prof. TaoYong. Thanks to Xue yong, Dr. Qian zhuyun and Wang lu. Thanks for their supporting and helping.
