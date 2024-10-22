@@ -1,0 +1,338 @@
+﻿species,label,speciescn,taxid,groups,description
+Abiotrophia defectiva,Both,缺陷乏养菌,46125,bacteria,缺陷乏养菌是人体呼吸道、口腔内的正常菌群，过去认为缺陷乏养菌为营养变异型链球菌，可引起心内膜炎、脑脓肿、脓毒性关节炎和菌血症的发生；引起眼部感染较为罕见，有文献报道可引起结膜炎，角膜炎，眼内炎，其引起感染的临床表现与链球菌或葡萄球菌引起的感染症状相似，有明显的浸润和炎症反应。
+Acanthamoeba castellanii,Both,卡氏棘阿米巴,5755,protozoa,"卡氏棘阿米巴属于棘阿米巴 T4 基因型，广泛存在于土壤，淡水等环境中。棘阿米巴是机会致病原生生物， 可引起棘阿米巴角膜炎和棘阿米巴肉芽肿性脑炎（Acanthamoeba granulomatous encephalitis,AGE）。90%以上的棘阿米巴角膜炎和T4有关联。外伤、污水污染以及佩戴角膜接触镜是引起棘阿米巴角膜炎的重要原因。患者可出现角膜上皮病变、角膜基质浸润、放射状角膜神经炎以及角膜溃疡，严重者可导致穿孔。"
+Acinetobacter baumannii,Both,鲍曼不动杆菌,470,bacteria,鲍曼不动杆菌是革兰阴性球杆菌，是医院内获得性感染的重要病原菌之一，感染主要部位为下呼吸道和泌尿道。眼科中有报道引起化脓性眼内炎，视力预后较差。
+Acinetobacter bereziniae,Background,别雷斯不动杆菌,106648,bacteria,常见背景微生物
+Acinetobacter haemolyticus,Both,溶血不动杆菌,29430,bacteria,溶血不动杆菌是一种条件致病菌。成人中免疫力低下、身体极度虚弱，存在严重基础病、外伤、介入治疗、长期使用激素和广谱抗菌素者均为该菌的易感人群。其引起的眼科致病报道很少，一篇研究报道2例溶血不动杆菌导致的外伤、术后眼内炎，对阿米卡星和庆大霉素敏感，预后较好。
+Acinetobacter johnsonii,Both,约氏不动杆菌,40214,bacteria,约氏不动杆菌属于不动杆菌属，存在于健康人皮肤、咽部，也存在于结膜、唾液、胃肠道及阴道分泌物中，临床中很少见该菌引起人类感染。属于机会性致病菌，可在一些抵抗力较弱、具有基础性疾病的患者中引起呼吸道感染、败血症、脑膜炎、心内膜炎、伤口及皮肤感染、泌尿生殖道感染等疾病。文献报道在原发性鼻泪管阻塞的患者泪囊中分离出约氏不动杆菌。
+Acinetobacter junii,Both,琼氏不动杆菌,40215,bacteria,琼氏不动杆菌为革兰氏阴性杆菌，是一种罕见的人类致病原因，机会性致病 病原体，主要影响有过抗菌素治疗、侵入性治疗或恶性肿瘤的患者。有文献报道琼氏不动杆菌感染引起的角膜溃疡。
+Acinetobacter lwoffii,Background,鲁氏不动杆菌,28090,bacteria,
+Acinetobacter pittii,Pathogenicity,皮特不动杆菌,48296,bacteria,皮特不动杆菌为革兰氏阴性杆菌，是鲍曼-醋酸钙不动杆菌复合体（ACB） 的成员之一，有研究表明皮特不动杆菌感染除了可引起血流感染外，还可引起空洞性肺炎，尤其是在吸烟和/或免疫功能低下的患者中。
+Acinetobacter radioresistens,Both,抗辐射不动杆菌,40216,bacteria,抗辐射不动杆菌为革兰氏阴性杆菌，是环境中普遍存在的非发酵革兰氏阴性杆菌，由该病原体引起的感染案例较为少见，临床有报告该病原体可引起肺炎，败血症，创伤后眼内炎。
+Acinetobacter schindleri,Background,schindleri不动杆菌属,108981,bacteria,常见背景微生物
+Acinetobacter seifertii,Background,赛氏不动杆菌,1530123,bacteria,常见背景微生物
+Acinetobacter soli,Background,单不动杆菌,487316,bacteria,常见背景微生物
+Acinetobacter ursingii,Background,乌尔新不动杆菌,108980,bacteria,常见背景微生物
+Aeromonas caviae,Pathogenicity,豚鼠气单胞菌,648,bacteria,豚鼠气单胞菌为一种革兰氏阴性，兼性厌氧菌，是气单胞菌属中较为常见的人类致病菌，可引起胃肠炎、伤口感染、血流感染、胆道感染、呼吸系统感染、泌尿系统感染、眼部感染、脑膜炎、腹膜炎及肝脓肿等。眼部感染包括角膜炎、眼内炎，豚鼠气单胞菌引起的眼内炎多为外伤或术后感染性眼内炎，但内源性的也有报道。
+Aeromonas hydrophila,Pathogenicity,嗜水气单胞菌,644,bacteria,"嗜水气单胞菌属于弧菌科、气单胞菌属，是嗜温、有动力的气单胞菌群，普遍存在于淡水、污水、淤泥、土壤和人类粪便中，对水产动物、畜禽和人类均有致病性，嗜水气单胞菌是人类最常见的空气单胞菌,常与暴露于受污染的水或土壤的创伤有关。可引起软组织感染、菌血症、眼部感染等。曾有文献报道该菌在免疫功能不全患者中造成眼内炎，表现为视力下降、眼压升高、角膜水肿、晶体前渗出以及严重的前房和玻璃体腔内的炎症反应。"
+Aeromonas jandaei,Pathogenicity,简氏气单胞菌,650,bacteria,简氏气单胞菌为革兰氏阴性菌，是一种机会致病菌，眼部感染文献报道很少，有1篇文献报道简氏气单胞菌引起外伤后的泪囊蜂窝组织炎。
+Aeromonas veronii,Pathogenicity,维氏气单胞菌,654,bacteria,维氏气单胞菌为革兰氏阴性菌，是一种机会致病菌，但有人认为免疫功能健全者也可被感染，通常患者发生急性腹泻，也可能引起菌血症、脑膜炎和心内膜炎等。
+Aggregatibacter aphrophilus,Pathogenicity,嗜沫凝聚杆菌,732,bacteria,嗜沫凝聚杆菌属于口腔革兰氏阴性微生物，通常是口腔共生微生物群的组成部分，是脑脓肿、感染性心内膜炎、脊髓硬膜外脓肿、纵膈炎、肝脓肿等疾病的罕见病因。文献描述1例嗜沫凝聚杆菌引起的源于肾脓肿的内源性眼内炎。
+Alphapapillomavirus 2,Background,甲型乳头瘤viral2型,337039,viral,常见背景微生物
+Alphapapillomavirus 4,Background,甲型乳头瘤viral4型,337043,viral,常见背景微生物
+Alphapapillomavirus 9,Background,甲型乳头瘤viral9型,337041,viral,常见背景微生物
+Alphapolyomavirus octihominis,Background,人类多瘤viral8型,1891727,viral,常见背景微生物
+Alphapolyomavirus quintihominis,Background,人类多瘤viral5型,1891726,viral,常见背景微生物
+Alternaria alternata,Both,互隔交链孢霉/烟草赤星病菌,5599,fungi,互隔交链孢霉是一种植物病原菌，能引起叶斑病、腐烂和枯萎，还可导致免疫力低下的上呼吸道感染和哮喘。在眼科中有报道引起fungi性角膜炎和角膜溃疡。
+Alternaria arborescens,Both,乔木链格孢,156630,fungi,"乔木链格孢属于链格孢属，可存在于人类皮肤、黏膜、眼部及呼吸道，
+在免疫力低下的人群中引起上呼吸道感染、过敏性哮喘、慢性鼻窦炎等疾病的发生。"
+Anaerococcus hydrogenalis,Both,产氢厌氧球菌,33029,bacteria,产氢厌氧球菌是革兰氏阳性厌氧球菌，属于厌氧球菌属。常从阴道分泌物和卵巢囊肿中分离出来，临床文献提示位于肠道的此菌及其代谢产物与心血管疾病有关。
+Anaerococcus prevotii,Both,普氏厌氧球菌,33034,bacteria,普氏厌氧球菌为革兰氏阳性厌氧菌，厌氧菌是人类皮肤和粘液膜的主要菌群，因此是内源性bacteria感染的常见原因。普氏厌氧球菌可以引起人体不同部位的感染，如关节炎、菌血症等。
+Aspergillus flavus,Both,黄曲霉,5059,fungi,黄曲霉产生的毒素毒力很强，主要在肝脏、心肌和肌肉中逐渐积累而增强它的毒性。对肝脏的直接损伤可能导致基因畸变（畸胎或死胎），有很强的致癌性，主要是诱发肝癌。黄曲霉可引起fungi性角膜炎和fungi性眼内炎；在印度，有报道统计黄曲霉是引起fungi性眼内炎的最常见病原体。
+Aspergillus fumigatus,Both,烟曲霉,746128,fungi,"烟曲霉是环境中普遍存在的丝状腐生fungi,也是重要的机会致病菌.随着免疫受损人群的增多,由烟曲霉引起的系统性感染发病率不断升高，病死率达 60％一 100％，经常造成肺部感染，成为白血病和骨髓移植等重症免疫受损患者死亡的主要原因之一。烟曲霉可引起fungi性眼内炎。"
+Aspergillus nidulans,Both,构巢曲霉,162425,fungi,构巢曲霉属于曲霉属，是一种被广泛研究的雌雄同体的fungi，有一定的致病性，构巢曲霉在眼部可能会感染角膜，眼眶和其他眼部结构，有报道引起白内障术后患者fungi性眼内炎。构巢曲霉也可引起肺曲霉菌病和侵袭性fungi性鼻窦炎。
+Aspergillus niger,Both,黑曲霉,5061,fungi,黑曲霉与其他致病曲霉类似，可引起免疫低下患者机会感染。曾报道过黑曲霉引起甲fungi病、外耳道炎、 皮肤创面感染、支气管肺炎、腹膜透析患者的腹膜炎，以及播散性感染。由于黑曲霉产生黑色素，所以其在感染组织中往往带有色素，如甲fungi病可使甲呈黑色，皮肤创面感染可呈黑色痂皮等。在眼科中有报道黑曲霉引起的fungi性角膜炎和fungi性眼内炎。
+Aspergillus pseudonomiae,Pathogenicity,A. pseudonomius,1506151,fungi,A. pseudonomius属于曲霉菌属，曲霉是一种普遍存在的霉菌，可以感染免疫功能良好和免疫功能低下的患者。2019年从一例鼻窦炎患者体内分离出该菌，这是该菌在临床中的首次报告。
+Aspergillus ruber,Pathogenicity,Aspergillus_ruber,396024,fungi,A.ruber属于曲霉菌属，该物种于 1929 年首次被描述。 它已从英国的咖啡豆、中国 的茶叶和土壤以及捷克共和国的麦芽尘中分离出，目前引起人类致病案例较为罕见。
+Aspergillus terreus,Both,土曲霉,33178,fungi,土曲霉是一种常见的土壤腐生菌，可以从沙漠、草原、堆肥堆及被污染的存储的玉米、大麦、花生中分离到。该菌也具有重要的临床意义，可引起浅部fungi感染，如甲癣，在严重免疫功能抑制患者也可引起侵袭性曲霉病。也有报道在非免疫抑制患者中由该fungi引起的内源性眼内炎。
+Aspergillus thermomutatus,Pathogenicity,Aspergillus thermomutatus,41047,fungi,A. thermomutatus为曲霉属fungi，有研究显示，该菌与呼吸道感染有关。
+Aspergillus tubingensis,Both,塔宾曲霉,5068,fungi,塔宾曲霉是曲霉属fungi中一种可引起免疫低下患者机会感染的致病原，与黑曲霉亲缘关系较近。塔宾曲霉广泛分布于世界各地的粮食、植物性产品和土壤中，可导致侵袭性肺曲霉病，还是耳霉菌病中最常见的致病原之一，可造成疼痛或暂时性听力丧失，严重时可能损害耳道和鼓膜，除此之外也有病例报道罕见的引起心内膜炎感染。在眼科，有2例塔宾曲霉引起的无明显诱因的角膜炎报道，临床表现为视力下降、眼红眼痛和可累及基质的角膜浸润。
+Aspergillus versicolor,Pathogenicity,花斑曲霉,46472,fungi,花斑曲霉是曲霉菌属的一员，曲霉菌属可导致曲霉病，可在免疫力低下及长期佩戴眼镜等人群引起慢性fungi性眼内炎，其中症状有视力模糊，玻璃体炎症，角膜微孔等。花斑曲霉是一种罕见的fungi，其通常在被破坏的房屋中的绝缘材料中发现。有文献报道1例花斑曲霉引起的外伤后慢性fungi性眼内炎。
+Aureobasidium,,,5579,fungi,常见背景微生物
+Aureobasidium namibiae,Background,Aureobasidium namibiae,559561,fungi,常见背景微生物
+Aureobasidium pullulans,Background,黑酵母菌,5580,fungi,常见背景微生物
+Bacillus altitudinis,Both,高地芽孢杆菌,293387,bacteria,高地芽孢杆菌(Bacillusaltitudinis)是芽孢杆菌属的一种革兰氏阳性菌，菌体杆状，不运动，属于高地芽孢杆菌复合群成员。高地芽孢杆菌目前主要应用在防治病虫害，可与其他相关菌株一起应用于食品工业的生物防治。有文献报道芽胞杆菌引起的结膜、角膜溃疡等。
+Bacillus cereus,Both,蜡样芽孢杆菌,1396,bacteria,蜡样芽孢杆菌是一种普遍存在的革兰氏阳性棒状杆菌，在眼科是不常见但具有侵袭性的一种病原体，文献报道其约占感染性眼内炎病例的1.5%-10.7%，蜡样芽孢杆菌是外伤后眼内炎的重要病原体，感染进展迅速，在12-48小时内导致严重的炎症，对万古霉素、左氧氟沙星、氧氟沙星、妥布霉素和新霉素敏感。蜡样芽孢杆菌也被报道可引起角膜溃疡。
+Bacillus cereus group,Both,蜡样芽孢杆菌复合群,86661,bacteria,蜡样芽孢杆菌为革兰氏阳性菌，无荚膜，可产芽孢，β溶血性bacteria，广泛存在于水、土壤、空气、无脊椎动物的消化道和人类皮肤等处，是引起食物中毒的常见病原菌之一，也可引起血流感染、肺炎、眼部感染、中枢神经系统感染、皮肤软组织感染以及心内膜炎等。在眼科是不常见但具有侵袭性的一种病原体，文献报道其约占感染性眼内炎病例的1.5%-10.7%，蜡样芽孢杆菌是外伤后眼内炎的重要病原体，感染进展迅速，在12-48小时内导致严重的炎症，对万古霉素、左氧氟沙星、氧氟沙星、妥布霉素和新霉素敏感。蜡样芽孢杆菌也被报道可引起角膜溃疡。
+Bacillus pseudomycoides,Both,假fungi样芽胞杆菌/假蕈状芽胞杆菌,64104,bacteria,假蕈状芽孢杆菌属于蜡状芽孢杆菌群成员之一，由大的杆状体组成，带有卵球形，可以在厌氧条件下和溶菌酶存在下生长，蜡样芽胞杆菌群成员，可引起食源性疾病，均与食物中毒有关，且已有研究报道，芽孢杆菌属可引起眼部致病。
+Bacillus pumilus,Both,短小芽胞杆菌,1408,bacteria,短小芽孢杆菌(Bacillus pumilus)是芽孢杆菌属的一种革兰氏阳性菌，菌体呈杆状，能运动。短小芽孢杆菌是土壤、植物根际重要的植物根际促生菌菌群之一，能产生肽类、蛋白质、吡嗪类和酚类等多种抗菌物质，具有防病和促进生长双重功效。短小芽孢杆菌也是一些腐殖酸原料中的常见微生物。不仅能诱导植物产生抗病性，还能在植物根尖定植并形成生物膜，促进植物对营养物质的吸收。有文献报道芽胞杆菌属引起的结膜、角膜溃疡等。
+Bacillus subtilis,Pathogenicity,枯草芽孢杆菌,1423,bacteria,枯草芽胞杆菌是属于芽胞杆菌属的革兰氏阳性菌，芽胞杆菌属微生物广泛存在于环境中，常在腐烂的有机物、灰尘、土壤和深水中被发现。枯草杆菌属于眼部的条件致病菌，枯草芽孢杆菌眼内炎是感染性眼内炎的一种，其毒力较强，可在12~24h内导致失明。感染症状为眼剧痛、眼睑肿胀、眼球突出、角膜进行性水肿混浊、脓肿，前房及玻璃体腔内大量纤维素性渗出物。
+Bartonella henselae,Both,汉赛巴尔通体,38323,bacteria,汉塞巴尔通体感染可导致血管增生性病变、血管内膜病变伴原发性菌血症以及肉芽肿性病变。猫抓病即汉塞巴尔通体感染所引起的良性自限性疾病，在免疫功能正常者表现为皮肤或头面部淋巴结病变，而在免疫功能低下者可表现为严重的全身性病变。在眼部常表现为视神经网膜炎、结膜炎和视网膜血管炎。
+Beauveria rudraprayagi,Both,Beauveria rudraprayagi,1481906,fungi,Beauveria rudraprayagi是常见的昆虫寄生菌，较少感染人类，关于该物种感染研究较少，有文献报道同属物种可能导致霉菌性角膜炎。
+Betapapillomavirus 1,Background,β-乳头瘤viral1型,337051,viral,常见背景微生物
+Betapapillomavirus 2,Background,β-乳头瘤viral2型,333924,viral,常见背景微生物
+Betapapillomavirus 3,Background,β-乳头瘤viral3型,334207,viral,常见背景微生物
+Betapolyomavirus hominis,Background,BKviral,1891762,viral,常见背景微生物
+Betapolyomavirus secuhominis,Background,人多瘤viral2型(JCviral),1891763,viral,常见背景微生物
+Borreliella burgdorferi,Pathogenicity,伯氏疏螺旋体,139,bacteria,伯氏疏螺旋体可引起Lyme病，Lyme病由蜱虫叮咬传播，常于2-28天后发病，患者常有发热、头痛、疲劳等感冒样症状，皮肤常出现典型的圆形或卵圆形红斑。少数患者伴发结膜炎、巩膜外层炎或葡萄膜炎。
+Brevibacillus agri,Pathogenicity,土壤短芽孢杆菌,51101,bacteria,土壤短芽孢杆菌为革兰氏阳性菌，广泛存在于土壤、水环境中。有文献报道土壤短芽孢杆菌可对人和动物的皮肤、伤口或其他身体组织具有致病性。
+Brevibacillus brevis,Both,短短芽孢杆菌,1393,bacteria,短短芽孢杆菌是一种需氧的革兰氏阳性菌，在环境和土壤中存在，可用于农业，引起人类致病的文献较少，可引起免疫功能低下、严重外伤患者的感染，如菌血症、腹膜炎等。
+Brucella melitensis,Pathogenicity,羊布氏杆菌,29459,bacteria,羊布氏杆菌是一种革兰阴性小杆菌，苛养。布鲁菌病，简称布病，地中海弛张热、马耳他热、波浪热(undulant fever)、波状热，是由布鲁菌感染引起的一种人畜共患传染病。患者通常透过接触受感染动物的分泌物，或进食受污染的肉类或奶品而受感染，而在牧场或屠房等地方工作的人士，受感染风险会较高。布氏菌侵入人体后，会使人体体温上升至 40℃以上并引发全身抽搐等症状，而依严重程度可能造成心血管系统、运动神经系统、生殖系统、脑神经系统等病变。在眼科中布氏菌感染可引起全葡萄膜炎，表现为严重的玻璃体混浊以及广泛的脉络膜视网膜炎。
+Burkholderia cepacia,Pathogenicity,洋葱伯克霍尔德菌,292,bacteria,为不发酵革兰氏阴性杆菌，是一种人条件致病菌，在自然环境中广泛存在，可通过被污染的水和器械、消毒液、留置导管等途径引起感染，有临床报道由洋葱伯克霍尔德菌引起的脑膜炎。洋葱伯克霍尔德菌引起的眼部感染案例不多，但在角膜炎、急性或迟发性术后、外伤后眼内炎、内源性眼内炎均有该病原感染的报道。
+Campylobacter ureolyticus,Both,解脲弯曲杆菌,827,bacteria,解脲弯曲杆菌为一种新兴的胃肠道病原体，是一种革兰氏阴性、厌氧、无孢子芽孢杆菌。弯曲杆菌通常表现出微嗜气代谢特征，但也有一些物种能够在有氧和厌氧条件下生长。弯曲杆菌引起弯曲杆菌病，弯曲杆菌是世界各地引起人畜共患疾病的主要bacteria原因，被认为是一种食源性病原体。其感染具有潜伏期，往往持续1-7天，随后出现症状，可持续3天至一周。症状包括腹部绞痛、发烧和腹泻，大便中是否有血液，在大多数情况下，感染是自限性的。弯曲杆菌也可导致感染后并发症的发生，包括吉利安巴雷综合征(GBS)或米勒费舍尔综合征(MFS)。解脲弯曲杆菌引起感染的发病率可能与患有免疫系统疾病的患者以及免疫功能低下和糖尿病或艾滋viral的患者有关，目前其感染率已超过大肠杆菌，成为弯曲杆菌相关胃肠炎的第二大最常见原因。
+Candida albicans,Both,白色念珠菌,5476,fungi,白色念珠菌是一种酵母菌，条件致病菌，通常感染有免疫缺陷的人，能导致人感染念珠菌病。能引起血液感染，神经系统感染等，是fungi性角膜炎和fungi性眼内炎的常见病原体
+Candida glabrata,Both,光滑念珠菌,5478,fungi,常见背景微生物
+Candida haemulonii,Background,假丝酵母,45357,fungi,常见背景微生物
+Candida orthopsilosis,Background,拟平滑念珠菌,273371,fungi,常见背景微生物
+Candida parapsilosis,Both,近平滑念珠菌,5480,fungi,近平滑念珠菌是临床常见的念珠菌，机会性致病fungi，在很大程度上影响低出生体重儿和免疫功能低下患者。该菌是导致免疫功能低下人群患败血症和伤口及组织感染的重要原因。近平滑念珠菌可引起角膜炎和眼内炎，其感染容易出现在使用全身皮质类固醇或有眼部手术史人群中，如角膜移植术、LASIK手术、白内障手术等。
+Candida tropicalis,Both,热带念珠菌,5482,fungi,热带念珠菌是常见的假丝酵母菌，是黏膜和全身感染的机会性fungi病原体，常继发于免疫功能低下或者有基础性疾病的患者，尤其多见于器官或骨髓移植、恶性血液病、癌症及糖尿病等情况。热带念珠菌被报道可引起内源性fungi性眼内炎、白内障术后眼内炎、角膜移植术后眼内炎和角膜炎、接触镜导致的角膜炎，其中内源性眼内炎最为多见，可有视网膜出血，玻璃体混浊，飞蚊症等眼部表现。
+Capnocytophaga sputigena,Pathogenicity,生痰二氧化碳噬纤维菌,1019,bacteria,该菌为兼性厌氧、嗜二氧化碳的梭形革兰氏阴性杆菌，是正常的口咽部菌群，同时它们也是与牙周病和动物咬伤相关的条件致病菌，可对免疫功能不全的宿主造成全身感染。可导致菌血症，积脓症，败血症。二氧化碳噬纤维菌属可在眼外伤或持续性角膜上皮缺损的患者中导致角膜炎，有文献报道生痰二氧化碳噬纤维菌在长期使用激素患者中引起严重的角膜炎。
+Cellulosimicrobium cellulans,Both,纤维化纤维微bacteria,1710,bacteria,纤维化纤维微bacteria是革兰氏阳性菌，在土壤等环境中广泛存在，主要在免疫功能低下或存在外来异物引起感染的人群中致病，文献报道1例由该菌引起的外伤性眼内炎。
+Chaetomium globosum,Both,球毛壳霉菌,38033,fungi,球毛壳霉菌属于毛壳菌属，毛壳菌属在环境中广泛存在，引起人类感染的报道比较少，有文献报道球毛壳霉菌可引起皮肤感染、鼻窦炎、肺炎及感染性心内膜炎，在眼科被报道可引起植物外伤后溃疡性角膜炎，对两性霉素B、那他霉素耐药，对伏立康唑、伊曲康唑敏感。
+Chlamydia psittaci,Pathogenicity,鹦鹉热bacteria,83554,bacteria,鹦鹉热bacteria是一个专性细胞内病原体，属于bacteria属，会导致一种重要的人畜共患病，即鹦鹉热。鹦鹉热bacteria首先从鹦鹉体内分离出来，后陆续从长尾鹦鹉、鸽子、鸭、火鸡、海鸥和相思鸟等130种鸟类的体内分离出来，是引起禽类呼吸道和消化道疾病的病原体；并可引起人类和多种禽类感染，被感染禽类通过呼吸道和肠道途径间歇性地排出该病原体。在眼科被报道与眼附属器淋巴瘤（OAL）有关。此外，曾有报道鹦鹉热bacteria引起的慢性结膜炎，起病时有眼睑肿胀、眼红的表现。
+Chlamydia trachomatis,Background,沙眼bacteria,813,bacteria,常见背景微生物
+Citrobacter freundii,Both,弗氏柠檬酸杆菌,546,bacteria,弗氏柠檬酸杆菌是属于肠杆菌科的革兰氏阴性杆菌，一种条件致病菌，也是引起腹泻的病原体。在人类中，弗氏柠檬酸杆菌可引起尿路感染，腹泻，肺炎，但很少引起脑膜炎和颅内脓肿。在眼科致病的报道较少见，可在眼外伤或手术后的患者中引起急性眼内炎，视力预后常较差。1例弗氏柠檬酸杆菌引起的泪小管炎，表现为溢泪、分泌物增多及化脓性肉芽肿。
+Citrobacter koseri,Pathogenicity,柯氏柠檬酸杆菌,545,bacteria,柯氏柠檬酸杆菌是一种需氧革兰氏阴性bacteria，从人的皮肤和肠道中分离出来。柯氏柠檬酸杆菌是机会性病原体，新生儿和其他免疫功能低下的患者容易感染此菌。文献报道柯氏柠檬酸杆菌可引起内源性眼内炎，几乎都由柯氏柠檬酸杆菌肾感染引起。也有少数病例报道柯氏柠檬酸杆菌引起的结晶样角膜变性。
+Cladosporium cladosporioides,Background,枝孢霉菌,29917,fungi,常见背景微生物
+Clavispora lusitaniae,Background,葡萄牙念珠菌,36911,fungi,常见背景微生物
+Clostridium perfringens,Both,产气荚膜梭菌,1502,bacteria,产气荚膜梭菌是革兰阳性厌氧杆菌，既能产生强烈的外毒素，又有多种侵袭性酶，并有荚膜，构成其强大的侵袭力，是引起人类气性坏疽的主要病原菌。产气荚膜梭菌可导致眼部感染引起原发性角膜炎和全眼炎，感染症状多表现为视力下降、发红、畏光等，甚至出现角膜溃疡，角膜穿孔等。产气荚膜梭菌眼部感染常继发于穿透性损伤，可快速进展为全眼球炎和眼眶蜂窝组织炎。
+Colletotrichum fructicola,Both,果生刺盘孢菌,690256,fungi,果生刺盘孢菌是刺盘孢属的一种fungi，该属fungi是目前已知的可以感染人角膜的罕见fungi之一，可以通过外伤等途径感染人类造成疾病。其在全世界广泛存在，主要分布在热带、亚热带地区，是典型的植物寄生菌和腐生菌，主要存在于植物宿主的叶子中，可引起植物炭疽病，其对人类和动物为机会致病菌，有相关文献报道刺盘孢属引起角膜炎案例。
+Corynebacterium accolens,Background,拥挤棒杆菌,38284,bacteria,常见背景微生物
+Corynebacterium afermentans,Background,非发酵棒杆菌,38286,bacteria,常见背景微生物
+Corynebacterium ammoniagenes,Background,产氨棒杆菌,1697,bacteria,常见背景微生物
+Corynebacterium amycolatum,Background,无枝菌酸棒杆菌,43765,bacteria,常见背景微生物
+Corynebacterium argentoratense,Background,银色棒杆菌,42817,bacteria,常见背景微生物
+Corynebacterium aurimucosum,Background,C. aurimucosum,169292,bacteria,常见背景微生物
+Corynebacterium belfantii,Background,-,2014537,bacteria,常见背景微生物
+Corynebacterium casei,Background,乳酪短杆菌,160386,bacteria,常见背景微生物
+Corynebacterium durum,Background,坚硬棒状杆菌,61592,bacteria,常见背景微生物
+Corynebacterium falsenii,Background,falsenii棒状杆菌,108486,bacteria,常见背景微生物
+Corynebacterium flavescens,Background,微黄棒杆菌,28028,bacteria,常见背景微生物
+Corynebacterium freneyi,Background,C. freneyi,134034,bacteria,常见背景微生物
+Corynebacterium glaucum,Background,深紫棒杆菌,187491,bacteria,常见背景微生物
+Corynebacterium glutamicum,Background,谷氨酸棒杆菌,1718,bacteria,常见背景微生物
+Corynebacterium godavarianum,Background,-,2054421,bacteria,常见背景微生物
+Corynebacterium halotolerans,Background,耐盐棒杆菌,2054421,bacteria,常见背景微生物
+Corynebacterium heidelbergense,Background,-,2055947,bacteria,常见背景微生物
+Corynebacterium jeikeium,Background,杰氏棒杆菌,38289,bacteria,常见背景微生物
+Corynebacterium kefirresidentii,Background,C. kefirresidentii,1979527,bacteria,常见背景微生物
+Corynebacterium kroppenstedtii,Background,柯氏棒状杆菌,161879,bacteria,常见背景微生物
+Corynebacterium kutscheri,Background,库氏棒状杆菌,35755,bacteria,常见背景微生物
+Corynebacterium lipophiloflavum,Background,嗜脂黄棒杆菌,161889,bacteria,常见背景微生物
+Corynebacterium macginleyi,Both,麦氏棒杆菌,38290,bacteria,麦氏棒杆菌是棒状杆菌属的一种革兰氏阳性菌，该属菌种多数分布在口咽部、眼结膜等处。该菌在眼科多见于角膜结膜炎，也有报道1例麦氏棒杆菌引起的术后慢性眼内炎。
+Corynebacterium massiliense,Background,-,441501,bacteria,常见背景微生物
+Corynebacterium matruchotii,Background,马棒状杆菌,43768,bacteria,常见背景微生物
+Corynebacterium minutissimum,Background,微小棒状杆菌,38301,bacteria,常见背景微生物
+Corynebacterium otitidis,Background,C. otitidis,29321,bacteria,常见背景微生物
+Corynebacterium phoceense,Background,-,1686286,bacteria,常见背景微生物
+Corynebacterium pollutisoli,Background,-,1610489,bacteria,常见背景微生物
+Corynebacterium propinquum,Background,接近棒状杆菌,43769,bacteria,常见背景微生物
+Corynebacterium pseudodiphtheriticum,Background,假白喉棒状杆菌,37637,bacteria,常见背景微生物
+Corynebacterium pseudogenitalium,Background,C. pseudogenitalium,38303,bacteria,常见背景微生物
+Corynebacterium pyruviciproducens,Background,-,598660,bacteria,常见背景微生物
+Corynebacterium resistens,Background,C. resistens,258224,bacteria,常见背景微生物
+Corynebacterium riegelii,Background,C. riegelii,156976,bacteria,常见背景微生物
+Corynebacterium segmentosum,Background,横裂棒状杆菌,43990,bacteria,常见背景微生物
+Corynebacterium simulans,Background,模仿棒状杆菌,146827,bacteria,常见背景微生物
+Corynebacterium singulare,Background,单独棒杆菌,161899,bacteria,常见背景微生物
+Corynebacterium stationis,Background,停滞棒杆菌,1705,bacteria,常见背景微生物
+Corynebacterium striatum,Both,纹带棒状杆菌,43770,bacteria,"纹带棒状杆菌是人体正常菌群的一部分，是一种无芽孢革兰阳性棒状杆菌，被认为是皮肤或黏膜表面的寄生菌，近年来经临床证明可成为定植菌或者感染源，但作为条件致病菌其在免疫低下的人群中也会引起严重的感染。长期卧床患者，免疫力低下的患者是易感人群，这类bacteria已经被临床越来越重视。纹带棒状杆菌作为条件致病菌，主要引起免疫功能受损，尤其是接受过介入性手术(如:气管插管，使用呼吸机，静脉导管，尿导管等)的长期住院患者的各类感染，包括肺炎、菌血症、心内膜炎、骨髓炎等。但近几年国内外学者报道此菌可引起败血症,心内膜炎及肺炎等各类临床感染。随着晚期慢性呼吸道疾病的患病率不断上升，出现革兰氏阳性bacteria引起的呼吸道感染临床案例也不断增加，例如纹状体棒状杆菌的爆发。"
+Corynebacterium timonense,Background,-,441500,bacteria,常见背景微生物
+Corynebacterium tuberculostearicum,Background,结核硬脂酸棒状杆菌,38304,bacteria,常见背景微生物
+Corynebacterium tuscaniense,Background,C. tuscaniense,302449,bacteria,常见背景微生物
+Corynebacterium urealyticum,Background,解脲棒杆菌,43771,bacteria,常见背景微生物
+Corynebacterium ureicelerivorans,Background,C. ureicelerivorans,401472,bacteria,常见背景微生物
+Corynebacterium variabile,Background,变异棒状杆菌,1727,bacteria,常见背景微生物
+Corynebacterium xerosis,Background,干燥棒状杆菌,1725,bacteria,常见背景微生物
+Corynespora cassiicola,Pathogenicity,C.cassiicola,59586,fungi,C.cassiicola是一种常见的植物病原体，引起人类致病较为罕见，主要表现为皮肤fungi病。文献描述一例由该菌引起的浸润性角膜炎，患者有明确的植物接触史。
+Cowpox virus,Pathogenicity,牛痘viral,10243,viral,牛痘viral是角膜炎的一种致病原，接种牛痘疫苗中牛痘viral意外感染角膜可致角膜炎，在角膜常呈树枝状角膜炎，浸润后常发生溃疡，严重病例则常引起虹膜反应，虹膜睫状体炎，少数病例还可引起角膜穿孔，或角膜葡萄肿、继发性青光眼等。
+Cryptococcus neoformans,Pathogenicity,新型隐球菌,5207,fungi,新型隐球菌属于隐球菌属，在自然界分布广泛，鸽粪中最多见。人在免疫力低下时，因吸入鸽粪污染的空气而感染，主要引起肺和脑亚急性或慢性感染，可扩散至脑部感染，引起慢性炎症和脓肿。在眼部可引起感染性眼内炎，可表现为玻璃体炎、视网膜血管炎和脉络膜炎。
+Cutibacterium acnes,Both,痤疮丙酸杆菌,1747,bacteria,痤疮丙酸杆菌是定植在人类皮肤毛囊、皮脂腺中最主要的微生物，为丙酸杆菌属的革兰兼性厌氧棒状菌。此菌是一种不运动、厌氧、无芽孢的杆菌．在正常皮肤及瘴疮形成时均存在。痤疮丙酸杆菌性眼内炎是白内障术后最常见的慢性厌氧菌性眼内炎，如慢性肉芽肿性葡萄膜炎，感染症状为结膜充血，角膜后壁沉着物，晶体内混浊，眼底视盘边缘模糊，黄斑区及周围视网膜水肿，玻璃体炎。临床治疗多用万古霉素玻璃体内注射治疗。
+Cutibacterium granulosum,Background,颗粒状皮肤杆菌,33011,bacteria,常见背景微生物
+Cutibacterium modestum,Background,C.modestum,2559073,bacteria,常见背景微生物
+Cutibacterium namnetense,Background,-,1574624,bacteria,常见背景微生物
+Nocardia cyriacigeorgica,Pathogenicity,盖尔森基兴诺卡氏菌,135487,bacteria,常见背景微生物
+Diaporthe ampelina,Background,-,1214573,fungi,常见背景微生物
+Encephalitozoon hellem,Both,海伦脑炎微孢子虫,27973,protozoa,海伦脑炎微孢子虫是属于脑胞内原虫属的单细胞微孢子虫，是一种可形成孢子的protozoa，由粪便传播，其宿主主要是免疫低下患者，该病原体首次于1991年从患有角膜结膜炎患者中分离出来，但也发现它能感染老鼠、鸟类，甚至蝙蝠。感染该病原体的临床表现主要为角膜结膜炎、呼吸道、泌尿生殖道感染及播散性感染。海伦脑炎微孢子虫性角膜结膜炎更易发生在获得性免疫缺陷综合征患者中，但也曾有报道1例免疫功能正常的成人经禽类传播感染海伦脑炎微孢子虫性角膜结膜炎。
+Enterobacter cancerogenus,Pathogenicity,生癌肠杆菌,69218,bacteria,生癌肠杆菌是一种革兰氏阴性厌氧菌，属于肠杆菌科，本属bacteria广泛存在于水、污水、土壤和蔬菜中关，感染常与外伤及免疫力低下有关，在皮肤、软组织感染、脓毒性关节炎、骨髓炎、肺炎和尿路感染中分离过该病原体。
+Enterobacter cloacae,Both,阴沟肠杆菌,550,bacteria,阴沟肠杆菌是一种革兰氏阴性杆菌，在人和动物的粪便水、泥土、植物中均可检出，是肠道正常菌种之一。可引起皮肤、软组织、呼吸道、泌尿道、中枢神经系统、胃肠道和其他器官的感染。在眼科中可引起眼内炎，眼科手术是常见诱因。
+Enterobacter cloacae complex,Pathogenicity,阴沟肠杆菌复合体,354276,bacteria,阴沟肠杆菌复合体包含6种肠杆菌，包括阿氏肠杆菌、阴沟肠杆菌、霍氏肠杆菌、神户肠杆菌、路德维希肠杆菌和超压肠杆菌，它们在自然界广泛存在，并且可以作为病原体。在临床研究中，阴沟肠杆菌和霍氏肠杆菌是人类中最常分离的病原种类，能够引发血流感染。阴沟肠杆菌在眼科被报道可引起术后眼内炎和免疫功能低下患者的角膜炎。
+Enterobacter hormaechei,Both,霍氏肠杆菌,158836,bacteria, 霍氏肠杆菌是革兰氏阴性菌，是肠杆菌中的一种兼性厌氧菌，广泛存在于动物肠道中，为正常菌群之一，在特定条件下会引起动物和人感染，是条件致病菌，霍氏肠杆菌属于阴沟肠杆菌复合体中的一种肠杆菌。
+Enterobacter ludwigii,Both,路德维希肠杆菌,299767,bacteria,路德维希肠杆菌为革兰氏阴性菌，普遍存在于土壤、水体和肠道等环境中。近年来，不断有临床研究发现路德维希肠杆菌可导致腹部、泌尿道、脑膜和外科部位的感染。
+Enterococcus casseliflavus,Both,酪黄肠球菌,37734,bacteria,酪黄肠球菌是一种革兰氏阳性菌，肠球菌属，是一种罕见的病原体， 文献报道可引起免疫低下人群泌尿道、消化道、腹腔等继发感染，以及败血症、眼内炎等疾病。病例系列研究显示在肠球菌性眼内炎中，酪黄肠球菌引起的眼内炎病例不少于粪肠球菌，其感染发生在眼部创伤和内源性感染情况下。
+Enterococcus faecalis,Both,粪肠球菌,1351,bacteria,粪肠球菌是一种革兰氏阳性球菌。其广泛分布于自然环境及人和动物消化道内。20 世纪 80 年代以来，肠球菌严重感染的发生率和病死率明显升高。该菌可作为条件致病菌引起人的尿路感染、菌血症和心内膜炎。在眼科中曾有报道引起白内障术后的感染性眼内炎。
+Enterococcus faecium,Pathogenicity,屎肠球菌,1352,bacteria,屎肠球菌为革兰氏阳性球菌，在人及动物肠道中可引起医源感染。最常见为尿道感染，其次为腹部和盆腔等部位的创伤和外科术后感染。在眼科中有报道由屎肠球菌引起感染性眼内炎。
+Enterococcus gallinarum,Both,鹑鸡肠球菌,1353,bacteria,鹑鸡肠球菌是一种革兰氏阳性菌，肠球菌属，一般可在肠道中发现，可引起泌尿道、消化道、腹腔等继发感染，以及败血症、脑膜炎等疾病。鹑鸡肠球菌引起的眼内炎比较少见，有报道一名38岁男性，在不戴护目镜的情况下使用农业机械时发生左眼异物伤，感染鹑鸡肠球菌，短时间内眼内炎症快速进展，出现较重的玻璃体炎和血管炎，对万古霉素耐药，对氨苄青霉素和庆大霉素敏感。
+Escherichia coli,Both,大肠埃希菌,562,bacteria,大肠杆菌是条件致病菌，在一定条件下可以引起人和多种动物发生胃肠道感染或尿道等多种局部组织器官感染。眼科中有报道引起内源性眼内炎及眼眶蜂窝组织炎。
+Exophiala alcalophila,Pathogenicity,Exophiala alcalophila,91920,fungi,E. alcalophila是外瓶霉属中较为罕见的条件致病菌，外瓶霉属许多物种都是是人类和动物的潜在病原体，外瓶霉属可在其他免疫抑制和健康个体中引起皮下甚至致命的播散性感染，该属物种还可引起角膜炎、脓毒性关节炎、心内膜炎和导管相关fungi血症。
+Finegoldia magna,Both,大芬戈尔德菌,1260,bacteria,大芬戈尔德菌是一种革兰氏阳性厌氧球菌，广泛分布于人类口腔、上呼吸道、胃肠道、泌尿生殖系统和皮肤，属于正常菌群的一部分。大芬戈尔德菌常见于皮肤和软组织感染、骨关节感染及包括糖尿病皮肤溃疡和应激性溃疡在内的慢性创面感染，还可分离自化脓性关节炎、假肢及植入物（如人工瓣膜）感染、乳腺脓肿、鼻窦炎和中耳炎等上呼吸道感染标本。另外，也有引起术后纵隔炎、坏死性肺炎、脑膜炎的病例报道，还可引起心内膜炎、心包炎、纵隔炎、坏死性筋膜炎。
+Fusarium asiaticum,Background,亚洲镰刀菌,282267,fungi,常见背景微生物
+Fusarium coffeatum,Pathogenicity,F. coffeatum,231269,fungi,F. coffeatum为F. incarnatum-equiseti species complex(FIESC)成员，为条件致病菌，在环境中广泛存在，主要导致皮肤、眼睛、指甲等部位的感染，也可引起深部组织与侵袭性fungi病的发生。文献报道该复合群成员在眼部主要引起角膜炎，大多数患者主诉眼红、眼痛、流泪、畏光和视力下降，也有报道发生角膜穿孔、全层角膜溃疡的患者。该复合群也被报道可引起白内障术后眼内炎。
+Fusarium equiseti,Both,木贼镰刀菌,61235,fungi,镰刀菌主要为植物致病菌，但也可引起严重人类感染。引起侵袭性疾病的常见镰刀菌包含茄病镰刀菌、尖孢镰刀菌、轮枝样镰刀菌以及层生镰刀菌等。免疫正常的宿主感染镰刀菌的途径主要有外伤或外来异物引起的软组织或黏膜的感染、吸入镰刀菌孢子及镰刀菌引起的过敏性疾病。镰刀菌属是引起fungi性角膜炎和fungi性眼内炎的常见病原体。
+Fusarium euwallaceae,Both,-,1147111,fungi,Fusarium euwallaceae属于镰刀菌属，镰刀菌是一种条件致病菌，广泛存在于土壤、空气和植物。一般情况下并不致病，当有外伤或机体抵抗力下降即可引起感染，可导致动物或人角膜、皮肤、甲板等部位感染，文献报道Fusarium euwallaceae为人类致病种。
+Fusarium graminearum,Both,禾谷镰刀菌,5518,fungi,禾谷镰刀菌产生的主要霉菌毒素是脱氧雪腐镰刀菌烯醇（DON）和玉米赤霉烯酮。在人类中，已发现 DON 具有潜在的免疫抑制作用，并可能导致肾毒性。玉米赤霉烯酮可能在人体中引起雌激素问题，导致轻微至严 重的生殖影响。有报道由禾谷镰刀菌引起的fungi性角膜炎
+Fusarium oxysporum,Both,尖孢镰刀菌,5507,fungi,镰刀菌会产生镰刀菌毒素，对人和动物有强烈的毒性，并以心血管系统损害为特征。另外镰刀菌会产生一种T-2毒素， 抑制软骨组织生长，骨关节还会慢慢发生病变最终导致缺血性股骨头坏死。镰刀菌是引起fungi性角膜炎和fungi性眼内炎的常见病原体。
+Fusarium proliferatum,Both,层生镰刀菌,948311,fungi,层生镰刀菌是镰刀菌的一种，镰刀菌广泛存在于土壤、空气和植物。一般情况下并不致病，当有外伤或机体抵抗力下降即可引起感染，可导致动物或人角膜、皮肤、甲板等部位感染。层生镰刀菌被报道可引起角膜炎，角膜溃疡多为白色或灰色，在角膜中央，药敏检测显示其对那他霉素和伏立康唑敏感，对两性霉素、伊曲康唑等耐药。层生镰刀菌也被报道引起1例白内障术后眼内炎。
+Fusarium solani,Both,茄病镰刀菌,169388,fungi,镰刀菌是一种条件致病菌，广泛存在于土壤、空气和植物。一般情况下并不致病，在免疫抑制和免疫抑制患者中与严重的侵袭性fungi病有关，当有外伤或机体抵抗力下降即可引起感染。可导致动物或人角膜、皮肤、甲板等部位感染，镰刀菌角膜炎表现为溃疡性病变，通常使用局部抗fungi药物治疗，偶尔结合结膜下注射。茄病镰刀菌是角膜fungi性感染的最常见镰刀菌，镰刀菌角膜炎可能发展为深面积感染穿孔和恶性青光眼，预后差。
+Fusarium verticillioides,Both,轮枝镰刀菌,117187,fungi,轮枝镰刀菌属于镰刀菌属，镰刀菌为条件致病性fungi，广泛分布于自然界土壤、植物的地上及地下部分或植物碎片。镰刀菌会产生镰刀菌毒素，对人和动物有强烈的毒性，并以心血管系统损害为特征。
+Gardnerella vaginalis,Pathogenicity,阴道加德纳菌,2702,bacteria,阴道加德纳氏菌（GV）是革兰氏阴性菌，是引起bacteria性阴道病（BV）的病原菌。其致病可能与厌氧菌共同作用有关，除引起BV以外，GV还可致早产、产褥热、新生儿败血症、绒毛膜羊膜炎、产后败血症、脓毒血症、尿路感染、肾周脓肿及膀胱炎等。该菌可通过性生活传染，在男性患者中也有该菌引起的龟头炎、尿道炎、尿路感染和无症状菌血症感染案例。此外，也有案例报道无症状阴道加德纳菌(GV)感染合并视网膜血管炎，患者有闪光感，视力轻度下降，视网膜血管渗漏表现，无前房和玻璃体炎症反应。GV感染可能是视网膜血管炎的众多诱因之一。
+Gemella haemolysans,Pathogenicity,溶血孪生球菌,1379,bacteria,溶血孪生球菌是革兰氏阳性菌，是人和动物口腔、上呼吸道及肠道的正常菌群之一，一般不引起感染，但在机体抵抗力降低的情况下可致多种机会感染，如bacteria性心内膜炎、脑膜炎、脓毒性关节炎、椎间盘炎、化脓性脊椎骨髓炎等。在眼部，可引起传染性结晶性角膜病，和急性术后眼内炎，对庆大霉素、氯霉素、万古霉素敏感。
+Gemella sanguinis,Both,血孪生球菌,84135,bacteria,寄生于人类肠道/呼吸道/泌尿生殖道的机会致病菌，可累及全身各个器官组织，最常见的感染性疾病为心内膜炎，其他包括肺部感染/胸膜炎/关节炎/创口感染/咽后壁脓肿/败血症/脑膜炎/骨髓炎/角膜炎/肝脓肿等。
+Gordonia sputi,Pathogenicity,痰液戈登菌,36823,bacteria,"导致中枢神经系统感染和脑膜炎，G. sputi, G. bronchialis和G. terrae是该菌属的主要致病菌，戈登属是一种新兴的病原体，主要与医疗器械有关，应列入引起脑脊液分流感染的病原体清单。文献描述1例痰液戈登菌引起的外伤后化脓性眼内炎。"
+Granulicatella adiacens,Pathogenicity,毗邻颗粒链菌,46124,bacteria,毗邻颗粒链菌为兼性厌氧的革兰阳性球菌，是人口咽部、泌尿生殖道和肠道的正常菌群，机体免疫力低下时可引起感染性心内膜炎、中耳炎和菌血症等。有报道毗邻颗粒链菌可引起急性眼内炎和角膜炎，临床也曾报道一例慢性泪囊炎病例。
+Haemophilus influenzae,Both,流感嗜血杆菌,727,bacteria,流感嗜血杆菌是一种革兰氏阴性杆菌，在婴儿及孩童中，乙型流感嗜血杆菌会引致菌血病症及急性bacteria性脑膜炎。在眼科中曾有报道引起一名免疫力正常的13岁儿童的内源性眼内炎。
+Haemophilus parahaemolyticus,Pathogenicity,副溶血嗜血杆菌,735,bacteria,副溶血嗜血杆菌，又名胸膜肺炎嗜血杆菌、胸膜肺炎放线杆菌，是一种兼性厌氧革兰氏阴性菌，为多形性小球杆菌，不运动，有荚膜。多存在于正常人的上呼吸道，毒力较弱，很少致病。
+Haemophilus parainfluenzae,Pathogenicity,副流感嗜血杆菌,729,bacteria,副流感嗜血杆菌是一种无动力、无芽孢的革兰阴性小杆菌，常呈球杆状、丝状等多种形态。HPi为微需氧菌，最适生长温度为35~37℃，这使它适应其寄居的呼吸道特殊环境，是人类呼吸道常见的定植菌，具有条件致病性。可引起心内膜炎、肾炎、泌尿生殖道炎、胆道感染、腹膜炎等多种疾病。有文献报道在感染性葡萄膜炎患者眼内检测到副流感嗜血杆菌。
+Hepatitis B virus,Both,乙型肝炎viral,10407,viral,乙型肝炎viral属嗜肝DNAviral科，是引起乙型肝炎的病原体。研究表明乙型肝炎患者的泪液中存在HBV DNA，并且存在通过泪液传播乙肝viral的可能性。也有文献报道使用聚合酶链反应技术在乙型肝炎患者的房水中检出乙肝viral的存在。
+Human alphaherpesvirus 1,Both,人疱疹viral1型/单纯疱疹viral1型,10298,viral,单纯疱疹viral(herpes simplex virus，HSV)侵入机体后可以通过直接侵犯或通过诱发的免疫应答而引起前葡萄膜炎或后葡萄膜炎。常为疱疹性角膜-虹膜睫状体炎，疱疹性虹膜睫状体炎，在免疫抑制患者中也可引起疱疹性视网膜脉络膜炎。单纯疱疹viral也是viral性角膜炎的最主要致病原，在角膜常呈树枝状角膜炎，浸润后常发生溃疡，严重病例则常引起虹膜反应，虹膜睫状体炎，少数病例还可引起角膜穿孔，或角膜葡萄肿、继发性青光眼等。
+Human alphaherpesvirus 2,Both,人疱疹viral2型/单纯疱疹viral2型,10310,viral,单纯疱疹viral(herpes simplex virus，HSV)侵入机体后可以通过直接侵犯或通过诱发的免疫应答而引起前葡萄膜炎或后葡萄膜炎。常为疱疹性角膜-虹膜睫状体炎，疱疹性虹膜睫状体炎，在免疫抑制患者中也可引起疱疹性视网膜脉络膜炎。单纯疱疹viral也是viral性角膜炎的最主要致病原，在角膜常呈树枝状角膜炎，浸润后常发生溃疡，严重病例则常引起虹膜反应，虹膜睫状体炎，少数病例还可引起角膜穿孔，或角膜葡萄肿、继发性青光眼等。
+Human alphaherpesvirus 3,Both,水痘-带状疱疹viral,10335,viral,水痘-带状疱疹viral感染可是先天性的或获得性的，可引起角膜炎、前葡萄膜炎、急性视网膜坏死综合征等。水痘-带状疱疹viral引起的前葡萄膜炎往往出现于眼带状疱疹的消退期。也是viral性角膜炎中仅次于HSV的致病原，在角膜常呈树枝状角膜炎，浸润后常发生溃疡，严重病例则常引起虹膜反应，虹膜睫状体炎，少数病例还可引起角膜穿孔，或角膜葡萄肿、继发性青光眼等。
+Human betaherpesvirus 5,Background,CMV/巨细胞viral,10359,viral,巨细胞viral(cytomegalovirus，CMV)是一种疱疹viral，可引起视网膜炎或视网膜脉络膜炎，极少数情况下可引起虹膜睫状体炎，其中视网膜炎是主要表现，多为双侧受累，患者常诉视物模糊、暗点、眼前黑影、闪光感或视力下降等症状，在无有效治疗的情况下，巨细胞viral性视网膜炎通常持续进展，在数周内发生全层视网膜坏死。
+Human betaherpesvirus 6,Background,人疱疹viral6型,10368,viral,人疱疹viral-6型的原发感染多发生在6个月～2岁的儿童，重症者出现婴儿玫瑰疹。成人感染 HHV-6可出现单核细胞增多症。皮疹多为斑疹，色泽鲜红，可融合成片，甚至发展为弥漫性红斑，消退时脱屑较明显。免疫缺陷病人（接受器官移植和AIDS患者）比正常人更易感染HHV-6，临床可见发热、白细胞减少、皮疹，甚至发生肺炎、肝炎及脑炎。眼科中，有报道由HHV-6感染引起反复发作的角膜炎、视网膜肉芽肿、葡萄膜炎以及视神经炎等。
+Human betaherpesvirus 6A,Pathogenicity,人疱疹viral6A,32603,viral,人类疱疹viral6A感染与临床上许多疾病有关，目前已相继从幼儿急疹、慢性疲劳综合征、AIDS、传染性单核细胞增多症等病人体内分离出了该病原体，且HHV-6A在健康人群中的隐性感染也非常普遍。此外，在移植受体患者中的感染也较为多见，可引起严重的脑炎，骨髓抑制与肺炎等。有文献报道在双眼表现为玻璃体炎、视盘水肿和出血的患者的房水和脑脊液中发现HHV-6的存在；也有研究发现HHV-6可能和感染性角膜炎相关。
+Human betaherpesvirus 6B,Pathogenicity,人疱疹viral 6B,32604,viral,人类疱疹viral6B感染与临床上许多疾病有关，目前已相继从幼儿急疹、慢性疲劳综合征、AIDS、传染性单核细胞增多症等病人体内分离出了该病原体。且HHV-6B在健康人群中的感染也非常普遍。此外，在移植受体患者中的感染也较为多见，可引起严重的脑炎、骨髓抑制、肺炎等。有文献报道在双眼表现为玻璃体炎、视盘水肿和出血的患者的房水和脑脊液中发现HHV-6的存在；也有研究发现HHV-6可能和感染性角膜炎相关。
+Human betaherpesvirus 7,Both,人疱疹viral7型,10372,viral,人类疱疹viral7型是一种普遍存在的人类疱疹viral，在健康成人外周血中首次被发现，该viral可持续存在于外周血T淋巴细胞和唾液腺中，易在脐带血和正常人外周血淋巴细胞中培养。HHV-7感染与其他疱疹viral相似，可能成为免疫抑制状态下的病原体。HHV-6和HHV-7是儿童中枢神经系统感染的罕见病因。有报道1例HHV-7感染引起的viral性前葡萄膜炎，患者表现为患眼充血，视物模糊，少量白色尘状KP， Descemet膜皱褶，前房细胞浸润，局部类固醇治疗后明显改善。
+Human coronavirus NL63,Background,人类冠状viralNL63,277944,,常见背景微生物
+Human gammaherpesvirus 4,Background,EBV,10376,viral,EBviral是一种双链DNAviral，可潜伏在B淋巴细胞中，持续复制，可引起视网膜炎、视网膜脉络膜炎、葡萄膜炎等等，也可引起结膜炎，EBviral引起的视网膜炎、视网膜脉络膜炎通常为自限性疾病。
+Human immunodeficiency virus,Pathogenicity,艾滋viral,12721,viral,艾滋viral可引起眼部病变，包括眼部机会性感染，研究表明52%～100%的HIV患者出现眼部病变，从眼附属器至视神经均可受累。视网膜微血管病变是HIV直接感染眼部最常见的临床表现，其发病率随CD4+T淋巴细胞数量降低而升高，临床主要表现为后极部的棉绒斑，也可表现为视网膜火焰状出血、周围视网膜点状出血和微血管瘤。
+Human mastadenovirus C,Pathogenicity,人哺乳动物腺viralC,129951,viral,线状双链 DNA viral，属于腺viral科、哺乳动物腺viral属。在儿童和成人患者的多种组织器官中均有发现，与许多临床疾病有关。包括急性呼吸道疾病(ARD)、急性胃肠炎和流行性角膜结膜炎等。
+Human mastadenovirus D,Both,人哺乳动物腺viralD/人类腺viralD,130310,viral,线状双链DNAviral，属于腺viral科、哺乳动物腺viral属。是viral性角膜结膜炎的病原之一，在免疫功能低下人群或艾滋病患者中更为常见，常侵犯角膜基质浅层，呈点状侵润，一般不形成溃疡。
+Human mastadenovirus E,Pathogenicity,人哺乳动物腺viralE,130308,viral,线状双链 DNA viral，属于腺viral科、哺乳动物腺viral属。在儿童和成人患者的多种组织器官中均有发现，与许多临床疾病有关。多引起结膜炎，急性呼吸道疾病等。
+Influenza A virus,Pathogenicity,A型流感viral,11320,viral,流感viralA是一种RNAviral，常引起急性呼吸道疾病，可引起急性后多病灶性鳞状色素上皮病变、浆液性视网膜脱离等多种葡萄膜炎表现。
+Streptococcus intermedius,Pathogenicity,中间链球菌,1338,bacteria,常见背景微生物
+Klebsiella aerogenes,Background,产气克雷伯菌,548,bacteria,常见背景微生物
+Klebsiella michiganensis,Background,密歇根克雷伯菌,1134687,bacteria,常见背景微生物
+Klebsiella oxytoca,Pathogenicity,产酸克雷伯菌,571,bacteria,产酸克雷伯菌是一种革兰氏阴性菌，被报道可引起角膜术后患者的难治性角膜炎。
+Klebsiella pneumoniae,Both,肺炎克雷伯菌,573,bacteria,肺炎克雷伯菌为呼吸道感染的重要病原体，常引起重症肺炎，还可引起泌尿道感染、胆道感染、败血症和化脓性脑膜炎等严重疾病。感染多发生于住院的衰弱患者。据报道，内源性肺炎克雷伯杆菌性眼内炎具有以下病征：单眼发病居多，玻璃体混浊，眼底可见视盘、黄斑水肿及视网膜血管闭塞等改变。
+Klebsiella quasipneumoniae,Both,类肺炎克雷伯菌,1463165,bacteria,类肺炎克雷伯是一种新兴的病原体，革兰氏阴性菌，是引起人类肺炎的为条件致病菌之一。可引起肺炎、子宫炎、乳房炎及其他化脓性炎症，甚至发生败血症。
+Kocuria indica,Background,-,1049583,bacteria,常见背景微生物
+Kocuria palustris,Background,沼泽库克氏菌,71999,bacteria,常见背景微生物
+Kocuria polaris,Background,极考克氏菌,136273,bacteria,常见背景微生物
+Kocuria rhizophila,Background,嗜根考克氏菌,72000,bacteria,常见背景微生物
+Kocuria rosea,Both,玫瑰色库克氏菌,1275,bacteria,玫瑰色考克氏菌，也称玫瑰色微球菌，是革兰氏阳性微球菌，广泛分布于自然界的土壤、水及人类的皮肤和呼吸道，一直被认为是条件致病菌，可导致免疫力低下患者的机会性感染。最近来有文献报道玫瑰色考克氏菌是一种罕见的引起角膜炎的致病菌。
+Kocuria salsicia,Background,-,664639,bacteria,常见背景微生物
+Kocuria turfanensis,Background,-,388357,bacteria,常见背景微生物
+Komagataella pastoris,Background,毕赤酵母,4922,fungi,常见背景微生物
+Kytococcus sedentarius,Background,坐皮肤球菌,1276,bacteria,常见背景微生物
+Lactococcus garvieae,Pathogenicity,格氏乳球菌,1363,bacteria,乳球菌属是1985年Schleifer等提议设立一个新的菌属，这个菌属的大多数bacteria原来是链球菌属和乳杆菌属中的bacteria，乳酸乳球菌、格氏乳球菌和乳脂乳球菌等可以引起人类的各种感染，如败血症、心血膜炎、骨髓炎、败血性髋关节炎和肝脓肿等。近年来有关格氏乳球菌引起人类感染的报道愈来愈多，可能与人类食用或处理受污染的生鱼或海鲜有关，肉类、生奶和乳制品也可能是人类感染格氏乳球菌的食物来源，应引起重视。文献报道1例格氏乳球菌引起的眼内炎，发生于长期玻璃体腔注射抗VEGF药物患者中。
+Leclercia adecarboxylata,Background,非脱羧勒克菌,83655,bacteria,常见背景微生物
+Legionella hackeliae,Pathogenicity,哈开里军团菌,449,bacteria,哈开里军团菌属于军团菌属，目前关于该菌报道较少。军团菌是一种导致军团菌病的兼性胞内寄生菌，患者主要通过被军团菌污染水体环境产生的气溶胶而感染。目前已知的军团菌有55个种，其中20余种可使人类致病，症状较重的以发热、咳嗽和肺部炎症为主，病情较轻的仅表现为发热、头痛和肌肉疼痛等，无肺部炎症。临床文献报道一例由哈开里军团菌引起的社区获得性肺炎病例。
+Legionella pneumophila,Pathogenicity,嗜肺军团菌,446,bacteria,嗜肺军团菌是一种革兰氏阴性杆菌，存在于土壤和水环境中，尤其在空调冷凝水中检出率最高。易侵犯患有慢性器质性疾病或免疫功能低下者，最常见引起肺炎。在眼科中有引起感染性眼内炎的报道，但罕见。
+Leptospira interrogans,Pathogenicity,问号钩端螺旋体,173,bacteria,问号钩端螺旋体是一种革兰氏阴性专性需氧微生物，会引起钩端螺旋体病。问号钩端螺旋体可经皮肤或黏膜迅速侵入人和多种动物体内引起感染，人类感染后引起以发热、黄疸、出血为主要症状的钩体病，动物感染后大多症状轻微或无症状。由于问号钩体自然宿主众多，并经污染的水源迅速传播，故钩体病是全球性流行、洪涝和地震等自然灾害时需重点防疫的人兽共患传染病。
+Leuconostoc citreum,Background,柠檬明串珠菌,33964,bacteria,常见背景微生物
+Lichtheimia corymbifera,Pathogenicity,伞状毛霉,42458,fungi,伞状毛霉是一种嗜热fungi，通常以腐生霉菌的形式生活，为机会致病菌。在免疫力受损的动物和人类中引起肺部、中枢神经系统、鼻脑或皮肤感染。有文献报道，伞状毛霉可引起眼眶蜂窝组织炎。
+Lichtheimia ramosa,Background,总状横梗霉,688394,fungi,常见背景微生物
+Lodderomyces elongisporus,Both,长孢诺德酵母菌,36914,fungi,长孢诺德酵母菌属于念珠菌，前已有临床研究表明，感染该病原菌可引起血流感染，心内膜炎。
+Malassezia caprae,Background,-,1381934,fungi,常见背景微生物
+Malassezia cuniculi,Background,-,948313,fungi,常见背景微生物
+Malassezia dermatis,Background,-,169489,fungi,常见背景微生物
+Malassezia equina,Background,-,1381935,fungi,常见背景微生物
+Malassezia furfur,Background,糠秕马拉色菌,55194,fungi,常见背景微生物
+Malassezia globosa,Background,球形马拉色菌,76773,fungi,常见背景微生物
+Malassezia japonica,Background,日本马拉色菌,223818,fungi,常见背景微生物
+Malassezia restricta,Both,限制性马拉色菌,76775,fungi,限制性马拉色菌通常存在于人类皮肤和头皮中，是一种条件致病菌，在眼科中有报道引起fungi性角膜炎。
+Malassezia sympodialis,Background,合轴马拉色菌,76777,fungi,常见背景微生物
+Mammaliicoccus vitulinus,Background,-,71237,bacteria,常见背景微生物
+Measles morbillivirus,Pathogenicity,麻疹viral,11234,viral,麻疹viral是一种RNAviral，它所致的麻疹是一种急性发热性皮疹疾病，主要通过鼻咽分泌物传播，在眼部致病罕见，最常引起的是结膜炎、角膜炎，轻症可致角膜上皮点状浸润，重症可致角膜穿孔幼儿发生感染也可引起视网膜脉络膜病变。
+Megasphaera micronuciformis,Pathogenicity,巨球形菌,187326,bacteria,巨球形菌属于巨球形菌属，为革兰氏阴性专性厌氧菌。从人类粪便中分离得出。目前关于该病原体临床研究较少。
+Meyerozyma guilliermondii,Both,季也蒙毕赤酵母,4929,fungi,毕赤酵母存在于人体皮肤和粘膜表面的菌群中，是一种机会性病原体。如同念珠菌，它也可以引起严重的fungi感染。有临床报道显示，季也蒙毕赤酵母感染人体可引起菌血症。
+Micrococcus flavus,Background,luteus微球菌,384602,bacteria,常见背景微生物
+Micrococcus luteus,Background,藤黄微球菌,1270,bacteria,常见背景微生物
+Moraxella catarrhalis,Pathogenicity,卡他莫拉菌,480,bacteria,卡他莫拉菌是一种革兰氏阴性双球菌，可以引起儿童和老年人的呼吸道感染、儿童上颌窦炎、中耳炎、肺炎。眼科中曾报道引起白内障术后的化脓性眼内炎。
+Moraxella lacunata,Pathogenicity,腔隙莫拉菌,477,bacteria,腔隙莫拉菌属于格兰阴性莫拉菌属，莫拉菌属角膜炎是一种少见但非常严重的角膜感染性疾病，它的发展趋势非常迅速，如果不尽早发现以及进行有效的治疗，会导致严重的并发症，包括失明。文献表明在纳入实验的16例莫拉菌属角膜炎患者中，以眼痛和角膜溃疡多见；腔隙莫拉菌和非液化莫拉菌为主要感染病原菌。
+Moraxella nonliquefaciens,Both,非液化莫拉菌,478,bacteria,非液化莫拉菌属于莫拉菌属，为革兰氏阴性菌，莫拉菌可寄居于人体皮肤和黏膜，也是上呼吸道正常菌群，在眼科可引起角膜炎，眼内炎，结膜炎。该菌引起的角膜炎或眼内炎病例可能有明显的脓性分泌物病史，眼内炎的报道多发生在有小梁切除病史患者中。一项对莫拉菌引起的眼部感染的物种研究报道非液化莫拉菌株在角膜炎中占29%，眼内炎中占的75%，所有菌株对万古霉素敏感。
+Moraxella osloensis,Both,奥斯陆莫拉菌,34062,bacteria,奥斯陆莫拉菌属于莫拉菌属，是人和动物黏膜上的正常菌群。奥斯陆莫拉菌为条件致病菌，当人体免疫力下降时，可单独或与其他bacteria共同引起咽喉炎、支气管炎、肺炎、鼻窦炎、中耳炎、关节炎、眼部或泌尿道感染、败血症、脑膜炎等。眼科有报道奥斯陆莫拉菌引起的迟发性滤过泡相关性眼内炎，一般预后较好。
+Morganella morganii,Pathogenicity,摩氏摩根菌,582,bacteria,摩氏摩根菌为革兰阴性菌，属摩根菌属。从小儿粪便中分离得出，是一种罕见的条件致病菌，主要引起呼吸道、泌尿道和切口感染，多发生于免疫功能低下的患者或新生儿中。眼部感染多发生在眼部手术后，引起急性术后眼内炎，也有文献描述1例摩氏摩根菌引起的内源性眼内炎。
+Mycobacterium abscessus,Pathogenicity,脓肿分枝杆菌,36809,bacteria,脓肿分枝杆菌是非结核分枝杆菌的一种，是一种条件致病菌，在自然界中广泛存在，可导致广泛的感染，如肺、皮肤和软组织、中枢神经系统等。在眼科中有报道由该菌种引起感染性角膜炎。
+Mycobacterium avium,Both,鸟分枝杆菌,1764,bacteria,鸟分枝杆菌属于非结核分枝杆菌的一种，广泛存在于环境（主要在水和土壤中）以及鸟类，鱼类和哺乳动物宿主中。在人类中，免疫抑制的患者可见鸟分枝杆菌感染，感染后可侵害多种组织器官包括肺、骨髓和淋巴结等。有报道鸟分枝杆菌引起虹膜睫状体炎、艾滋病患者的眼内炎，预后较差。阿米卡星、克拉霉素和阿奇霉素被认为是治疗非结核分枝杆菌感染的最佳抗生素。
+Mycobacterium gordonae,Both,戈登分枝杆菌,1778,bacteria,戈登分枝杆菌属于非结核分枝杆菌（NTM）中的缓慢生长分枝杆菌，暗产色菌，NTM 在环境中广泛存在，戈登分枝杆菌一般不致病或致病性弱，临床上可引起免疫缺陷宿主的NTM肺病，NTM淋巴结病，播散性NTM病等。NTM可引起眼内感染，也可引起眼部附件、结膜、角膜和眼眶的感染。戈登分枝杆菌性角膜炎据报道发生在穿透性角膜移植或眼外伤后，并有报道1例人工晶体植入术后戈登分枝杆菌引起的慢性眼内炎，预后较好。
+Mycobacterium leprae,Pathogenicity,麻风杆菌,1769,bacteria,麻风杆菌是一种革兰氏阳性、抗酸染色阳性杆菌，可引起麻风病，麻风是一种慢性肉芽肿性疾病，主要累及皮肤、周围神经、黏膜和眼组织。可引起多种类型的葡萄膜炎。
+Mycobacterium paragordonae,Both,副戈登分枝杆菌,1389713,bacteria,副戈登分枝杆菌属于非结核分枝杆菌，一般情况下不易致病，在身体抵抗力低的情况下可引起机会性感染和发病。有临床报告该病原体在一例腹膜透析病人中引起腹膜炎症状。
+Mycobacterium tuberculosis,Both,结核分枝杆菌,1773,bacteria,结核分枝杆菌可引起人慢性感染性结核病，结核分枝杆菌直接侵犯眼部可引起结膜炎、角膜炎和巩膜疾病，经血液循环传播至眼组织可引起结核性葡萄膜炎。
+Mycobacteroides chelonae,Background,龟分枝杆菌,1774,bacteria,常见背景微生物
+Mycolicibacterium austroafricanum,Pathogenicity,,39687,bacteria,Mycolicibacterium austroafricanum是从水中分离出来的快速生长型分枝杆菌，暂未找到相关致病文献。
+Mycolicibacterium septicum,Pathogenicity,,98668,bacteria,"M.septicum是一种罕见的非结核分枝杆菌，能引起健康和免疫功能低下的个体感染,目前仅报道少数M.septicum感染病例，可引起肺部感染、败血症、腹膜炎、皮肤组织感染等。"
+Mycolicibacterium vanbaalenii,Pathogenicity,,110539,bacteria,Mycolicibacterium vanbaalenii是一种生长迅速的分枝杆菌，首次从石油污染的河口沉积物中分离得到，经16S rRNA 基因测序表明与金分枝杆菌和母牛分枝杆菌密切相关。暂未找到相关致病文献。
+Mycoplasmoides pneumoniae,Pathogenicity,肺炎支原体,2104,bacteria,常见背景微生物
+Neisseria gonorrhoeae,Pathogenicity,淋病奈瑟球菌,485,bacteria,淋病奈瑟球菌是一种革兰阴性双球菌，可引起泌尿生殖系统的化脓性感染。在眼科可引起淋球菌性结膜炎，是一种极为剧烈的急性化脓性结膜炎，传染性强，可严重危害视力。临床特点是眼睑和结膜高度充血水肿，大量脓性分泌物，如不及时治疗，可在短时间内发生角膜溃疡及穿孔。
+Neisseria meningitidis,Pathogenicity,脑膜炎奈瑟菌,487,bacteria,脑膜炎奈瑟菌除通过呼吸道传染引起流行性脑脊髓膜炎外，还可引起菌血症、肺炎、关节炎、结膜炎、心肌炎、泌尿系统等多种炎症，统称为脑膜炎奈瑟菌病。在眼科中有报道引起感染性角膜炎和感染性眼内炎。
+Neisseria mucosa,Both,黏液奈瑟菌,488,bacteria,黏液奈瑟菌，又称为黏液双球菌，是革兰氏阴性球菌，属于奈瑟氏菌属。该菌常寄生在人体鼻咽部内，一般不致病，但在免疫力受损时可引起严重感染，包括心内膜炎、脑膜炎等。极少报道引起眼部感染，有1例报道儿童被飞镖创伤后引起的bacteria性眼内炎，飞镖曾被放入口中。
+Neisseria sicca,Pathogenicity,干燥奈瑟氏球菌,490,bacteria,干燥奈瑟氏球菌是一种革兰氏阴性菌，是人类口咽部的共生菌，也是条件致病菌，可感染免疫功能低下患者从而导致败血症，脑膜炎等。在眼科致病报道很少，有文献报道干燥奈瑟氏球菌可引起免疫正常人群的结膜炎，临床表现为眼红眼痛、大量脓性分泌物。
+Nocardia,,,1817,,常见背景微生物
+Nocardia abscessus,Both,脓肿诺卡菌,120957,bacteria,脓肿诺卡菌是诺卡菌属的一种革兰氏阳性菌，诺卡菌属微生物是与临床感染相关的病原体，通常与皮肤、皮肤软组织感染，呼吸道和中枢神经系统感染相关，临床研究发现脓肿诺卡菌与皮肤感染、肺炎相关。有文献报道与脓肿诺卡菌相关的感染性角膜炎。也有报道由脓肿诺卡菌引起的诺卡氏菌视网膜脉络膜脓肿，多发生在免疫缺陷人群中，少数免疫功能正常人群也见报道。
+Nocardia brasiliensis,Pathogenicity,巴西诺卡菌,37326,bacteria,巴西诺卡菌属于诺卡菌属，可引起各种感染性疾病，包括肺部、皮肤感染和中枢神经疾病，临床上70％的病例以肺部感染为主。巴西诺卡菌引起的肺部感染多见于老年男性、免疫不全或免疫抑制的患者，如皮质激素治疗、肿瘤、恶性血液病、器官或骨髓移植、艾滋病、慢性肺或肾脏疾病等。有临床报道儿童眼外伤培养出巴西诺卡菌和巴西诺卡菌引起的眼内炎。巴西诺卡菌也可引起溃疡性角膜炎。
+Nocardia farcinica,Both,鼻疽诺卡氏菌,37329,bacteria,鼻疽诺卡菌可引起皮肤，皮下组织，肺部急、慢性化脓性疾病，也可经血行播散途径侵入脑部或其他组织而引起相应病变。眼科中有报道引起感染性眼内炎以及脉络膜脓肿。
+Ochroconis constricta,Pathogenicity,,227046,fungi,一种土传的灰质fungi，从未被报道与人类感染有关，有文献报道可从人类皮肤刮伤的伤口中分离。
+Paenibacillus lautus,Both,灿烂类芽孢杆菌,1401,bacteria,类芽孢杆菌属的bacteria在自然界中分布较广，是土壤与植物微生态的优势种群之一。有文献报告类芽孢杆菌属的bacteria引起的心内膜炎。
+Pantoea anthophila,Both,,470931,bacteria,泛菌属是一种革兰氏阴性菌，属于肠杆菌科，可从植物表面、种子、人类粪便及水体环境中分离出来。泛菌属在临床上是一种罕见的病原体，分为20种不同的物种，如成团泛菌、菠萝泛菌、分散泛菌等。已知的易感人群包括婴儿、术后和免疫功能低下的患者等，关于P.anthophila引起的临床致病文献少见。
+Pantoea dispersa,Pathogenicity,分散泛菌,59814,bacteria,泛菌属是一种革兰氏阴性菌，属于肠杆菌科，可从植物表面、种子、人类粪便及水体环境中分离出来。泛菌属在临床上是一种罕见的病原体，分为 20 种不同的物种，如成团泛菌、菠萝泛菌、分散泛菌等。已知的易感人群包括婴儿、术后和免疫功能低下的患者等，据报道，分散泛菌可引起包括呼吸道感染、新生儿败血症和血流感染等。
+Parachlamydia acanthamoebae,Both,棘阿米巴副bacteria,83552,bacteria,棘阿米巴副bacteria是一种类似bacteria的生物体，很容易在棘阿米巴原虫体内生存，是一种阿米巴胞内菌，会引起人类下呼吸道感染，例如细支气管炎、支气管炎、吸入性肺炎和社区获得性肺炎等。
+Penicillium citrinum,Pathogenicity,桔青霉,5077,fungi,该菌常存在于霉变的柑橘类水果中，偶尔在谷类中也可以发现，可感染人，尤其是免疫力低下的人群。桔青霉被报道可引起fungi性角膜炎、内源性fungi性眼内炎、白内障术后慢性眼内炎。
+Penicillium digitatum,Pathogenicity,指状青霉,36651,fungi,青霉属是环境中最常见的fungi之一，通常被认为对人类无致病性。但在免疫功能低下的宿主中，可能是致命的病原体。有相关案例报道一例由指状青霉感染后引起的肺炎案例。
+Peptoniphilus harei,Both,海氏嗜胨菌,54005,bacteria,是一种革兰氏阳性厌氧球菌，主要参与微生物感染。有研究表明该病原体感染可引起腹膜炎、淋巴管炎、乳腺脓肿等。
+Pichia kudriavzevii,Background,克柔氏念珠菌,4909,fungi,常见背景微生物
+Prevotella intermedia,Pathogenicity,中间普雷沃菌,28131,bacteria,中间普雷沃菌是革兰氏阴性专性厌氧杆菌，是口腔的正常菌群之一，在健康的口腔，尤其是在青少年口腔的龈下菌斑中有较高的检出率，是根尖周感染的重要致病菌，与多种牙周病变相关，如成人牙周炎、妊娠性龈炎、急性坏死性龈炎、牙周脓肿、艾滋病相关性牙周病等。此外，中间普雷沃菌还是坏疽性口炎以及肺部感染的重要致病菌。在眼科，普雷沃菌属可引起慢性结膜炎、接触镜相关角膜炎、泪囊炎以及眼眶蜂窝织炎；也有文献报道由于普雷沃菌属引起的白内障术后眼内炎，但较罕见。
+Prevotella loescheii,Pathogenicity,洛氏普雷沃菌,840,bacteria,洛氏普雷沃菌是一种革兰氏阴性厌氧杆菌，普雷沃氏菌属的一种。该菌是口腔微生物的重要组成部分，可从人类牙周中分离出来，与多种形式的牙周疾病有关。有案例报道普雷沃氏菌可引起眼部感染，在厌氧菌引起的眼部感染报道中，最常见的引起泪囊炎的厌氧菌有胃链球菌、丙酸杆菌、普雷沃氏菌和梭杆菌。
+Prevotella melaninogenica,Pathogenicity,产黑素普雷沃菌,28132,bacteria,产黑素普雷沃菌是革兰氏阴性厌氧杆菌，普雷沃氏菌属的一种， 是临床常见的条件致病菌。通常寄居于人类口腔和女性生殖道等部位，特定条件下可引起这些部位组织感染。
+Primate erythroparvovirus 1,Background,细小viralB19,3052189,viral,常见背景微生物
+Primate T-lymphotropic virus 1,Pathogenicity,人T细胞白血病viral1型,194440,viral,人T细胞白血病viral1型( human T-cell leukemiavirus type 1) ，也称为人嗜T细胞viral1型( humanT-lymphotropic virus type 1，HTLV-1) ，是在1980年发现的一种和人类T淋巴细胞白血病密切相关的逆转录viral。迄今为止，该viral在全球一共发现了四种亚型，约1000万人感染了该viral，感染后的大部分人群呈隐性携带状态，只有少部分患者最终出现相关疾病。HTLV-1在眼部可引起HTLV-1葡萄膜炎、干燥性角结膜炎、间质性角膜炎和成人T细胞白血病-淋巴瘤。
+Propionibacterium acidifaciens,Background,产酸丙酸杆菌,556499,bacteria,常见背景微生物
+Propionimicrobium lymphophilum,Background,嗜淋巴丙酸杆菌,33012,bacteria,常见背景微生物
+Proteus mirabilis,Pathogenicity,奇异变形杆菌,584,bacteria,奇异变形杆菌广泛分布于自然界和人与动物体表，是一种较常见的机会致病菌。在人或动物体内或体表的适宜环境生长并大量繁殖时，可诱发尿道炎、肾/尿道结石、肾盂肾炎、中耳炎、菌血症及小儿急、 慢性腹泻、脊髓炎等多种疾病，严重时可致死。在眼科中有报道引起结膜炎、感染性角膜炎和感染性眼内炎。
+Pseudomonas aeruginosa,Both,铜绿假单胞菌,287,bacteria,铜绿假单胞菌是医院感染的主要病原菌，是下呼吸道最为常见的致病菌之一，可引起伤口感染、下呼吸道感染、泌尿道感染、菌血症等严重感染。此外，铜绿假单胞菌还是导致角膜感染中比例占第一位的bacteria。
+Aureobasidium pullulans,Pathogenicity,黑酵母菌,5580,fungi,常见背景微生物
+Purpureocillium lilacinum,Both,P. lilacinum,33203,fungi,是一种腐生丝状霉菌。在接受抗菌治疗、肿瘤化疗、原发性或获得性免疫缺陷、骨髓和实体器官移植通常在免疫功能低下的患者中更常见，常表现为眼部感染、皮肤或皮下感染。曾有该病原体在免疫力低下患者中引起角膜炎以及内源性眼内炎的报道。
+Rhizomucor pusillus,Both,微小根毛霉,4840,fungi,微小根毛菌是根毛霉属的一种条件致病fungi，引起人体发病的诱因是糖尿病、激素的使用以及肿瘤化疗、放疗损害，可导致肺部感染、血流感染、组织蜂窝炎等疾病。作为一种继发性深部fungi，发病率高，肺部感染较为常见，病情发展迅速；其次微小根毛菌感染破坏性大，病情发展迅速，可造成组织坏死、血管内血栓形成，因其缺乏特异性的症状，容易发生漏诊，死亡率高。
+Rhodotorula mucilaginosa,Both,胶红酵母,5537,fungi,胶红酵母属于红酵母属，较常见于环境中，是一种条件致病菌，文献发现该属fungi可引起心内膜炎、腹膜炎、脑膜炎以及皮肤、假体关节和眼部感染，胶红酵母是红酵母属眼部感染最常见的病原菌，可引起fungi性角膜炎和眼内炎，最常见的治疗药物是两性霉素B，也有病例系列报道显示红酵母属对棘白菌素、氟康唑、伏立康唑敏感。
+Roseomonas mucosa,Both,粘液玫瑰单胞菌,207340,bacteria,粘液玫瑰单胞菌是一种粉红色的，革兰氏阴性，需氧的小球杆菌，为条件致病菌。该菌多是从一些临床病人标本中分离获得，也存在于水，土壤等自然环境中。临床中有关该菌引起菌血症的报告较为多见。也有临床报告一例由玫瑰单胞菌引起的术后慢性眼内炎的案例，玫瑰单胞菌引起慢性眼内炎，容易误诊、延误治疗，造成眼损伤和严重视力丧失。
+Rothia kristinae,Pathogenicity,Rothia kristinae,37923,bacteria,Rothia kristinae属于罗氏菌属革兰氏阳性菌，一般认为Rothia kristinae是皮肤和口腔粘膜的定植菌群，有文献报道Kocuria kristinae可引起人类眼部感染，导致角膜炎、泪囊炎和眼内炎。
+Rubella virus,Pathogenicity,风疹viral,11041,viral,风疹viral是一种RNAviral，经呼吸道飞沫传播。孕妇感染风疹viral可导致流产、死胎或畸胎。研究表明Fuchs葡萄膜炎综合征与风疹viral的持续感染有关。
+Scedosporium apiospermum,Both,尖端赛多孢子菌,563466,fungi,尖端赛多孢子菌隶属于赛多孢子菌属，是一种侵袭性和致病性较强的条件致病菌，可侵犯人体的多种器官导致各类疾病。尖端赛多孢子菌普遍存在于自然界中，有临床报告该病原体可引起眼部、皮肤、肺部，以及中枢神经系统感染的案例。角膜炎是尖端赛多孢子菌感染最常见的眼部受累形式，最常见的临床症状为眼痛、视力下降、畏光、流泪。但它也可以引起更广泛的眼部疾病，包括来源如肺部和心脏感染的内源性眼内炎、术后迟发性眼内炎、视网膜炎。
+Scedosporium aurantiacum,Both,桔黄赛多孢菌,315946,fungi,"赛多孢子菌为条件致病菌，主要经呼吸道吸入和经皮肤黏膜外伤侵入人体。在健康人群多表现为局部感染，免疫异常患者则可发生播散性感染。常见受累器官为皮肤、眼、肺和脑；桔黄赛多孢菌可在慢性肺病患者中出现定植情况,致病机理尚不明确，其感染临床特征、影像学及病理组织学检查均无特异性。文献报道桔黄赛多孢菌可导致眼外伤患者发生巩膜炎、角膜溃疡和眼内炎。"
+Schizophyllum commune,Pathogenicity,裂褶菌,5334,fungi,裂褶菌是丝状担子菌病的主要致病原之一，可引起脑部、呼吸道感染，多发生在免疫抑制患者中，眼部感染较为少见，但也有报道裂褶菌引起角膜溃疡、白内障术后眼内炎的病例。
+Serratia marcescens,Both,粘质沙雷氏菌,615,bacteria,粘质沙雷氏菌参与医院获得性感染（HAIs），特别是与导管相关的菌血症，尿路感染和伤口感染。粘质沙雷氏菌可引起几个部位的机会性感染，包括泌尿道，呼吸道，伤口和眼睛，它们可能会导致结膜炎，角膜炎， 眼内炎和泪管感染。还会引起早期婴儿的胃肠炎。
+Severe acute respiratory syndrome coronavirus 2,Both,新型冠状viral,2697049,viral,新型冠状viral（SARS-CoV-2）属于β属的冠状viral，在潜伏期即有传染性，潜伏期 1～14 天，多为 3～7 天，发病后 5 天内传染性较强，主要传播途径是经呼吸道飞沫和密切接触传播，以发热、干咳、乏力为主要表现，部分患者以鼻塞、流涕、咽痛、嗅觉味觉减退或丧失、结膜炎、肌痛和腹泻等为主要表现。重症患者多在发病一周后出现呼吸困难和（或）低氧血症，严重者可快速进展为急性呼吸窘迫综合征、脓毒症休克、难以纠正的代谢性酸中毒和出凝血功能障碍及多器官功能衰竭等。新型冠状viral在眼部还可以引起一些眼底表现，包括视网膜出血和棉绒斑，静脉阻塞，动脉阻塞，玻璃体炎，后葡萄膜炎，视网膜血管扩张。
+Shewanella algae,Both,海藻希瓦氏菌,38313,bacteria,海藻希瓦氏菌是革兰氏阴性菌，属于希瓦氏菌属。常在海洋环境中被分离出，人类多通过食用或接触未加工的海产品等引起皮肤软组织感染，并且产生的神经毒素会引起全身感染。临床文献报道海藻希瓦氏菌可引起溃疡性角膜炎，此外有1例引起小儿眼眶脓肿合并软脑膜炎的报道。
+Shewanella putrefaciens,Both,腐败希瓦氏菌,24,bacteria,腐败希瓦氏菌是希瓦氏菌属的革兰阴性多形菌，是一种较为罕见的人类病原体。由该菌引起的人类疾病主要与皮肤和组织感染、菌血症、耳炎、腹部或胆道感染相关，其次也有较少文献报道与眼睛、呼吸道、骨骼、尿道或心脏感染有关。1例文献报道腐败希瓦氏菌引起的鱼钩创伤后的外伤性眼内炎。
+Sporothrix pallida,Pathogenicity,白孢子丝菌,431197,fungi,白孢子丝菌属于孢子丝菌复合体，孢子丝菌常见于土壤和腐木中，通过皮肤创口接种感染人类或动物，因此，从事花卉、农业和木材开采的人员易患孢子丝菌病，人类也可通过和动物密切接触感染孢子丝菌。临床主要引起皮肤黏膜、皮下组织及局部淋巴系统的慢性感染性疾病，可播散至全身引起多系统损害，是一种全球性的人畜共患fungi病，临床表现以固定型和淋巴管型为主。有临床报道由白孢子丝菌引起fungi性角膜炎案例。
+Staphylococcus arlettae,Background,阿尔莱特葡萄球菌,29378,bacteria,常见背景微生物
+Staphylococcus aureus,Both,金黄色葡萄球菌,1280,bacteria,金黄色葡萄球菌是最为常见的非常有侵入性的bacteria病原体，有“嗜肉菌”的别称，是革兰氏阳性菌的代表，常见于呼吸道和皮肤。可引起局部化脓感染，也可引起肺炎、伪膜性肠炎、心包炎等，甚至败血症、脓毒症等全身感染。易造成院内感染及手术后创伤感染。在眼科中有报道可引起感染性角膜炎和感染性眼内炎。
+Staphylococcus auricularis,Background,耳葡萄球菌,29379,bacteria,常见背景微生物
+Staphylococcus capitis,Both,头状葡萄球菌,29388,bacteria,头状葡萄球菌是葡萄球菌属的重要菌种之一，是革兰氏阳性球菌，以急性化脓性感染为特征，致病性与侵袭性酶类（如血浆凝固酶）和多种毒素有关。在眼科中有报道可引起白内障术后感染性眼内炎。
+Staphylococcus caprae,Background,山羊葡萄球菌,29380,bacteria,常见背景微生物
+Staphylococcus cohnii,Both,科氏葡萄球菌,29382,bacteria,科氏葡萄球菌是葡萄球菌属的革兰阳性菌，为凝固酶阴性葡萄球菌，是人皮肤的定植菌，科氏葡萄球菌感染人的病例不常见，免疫能力低下人群易感。据报道，科氏葡萄球菌感染病例包括与导管相关性菌血症、假体相关性菌血症、急性胆囊炎、脑脓肿、心内膜炎、肺炎、尿路感染和脓毒性关节炎等。
+Staphylococcus condimenti,Both,葡萄球菌,70255,bacteria,常见背景微生物
+Staphylococcus epidermidis,Both,表皮葡萄球菌,1282,bacteria,表皮葡萄球菌(SE)是人体皮肤和黏膜上定居的正常菌群之一，通常情况下致病力很低，较少引起全身性的感染；但免疫系统受损的患者有发生感染的危险。表皮葡萄球菌感染以下呼吸道感染及导管相关感染较为常见；病原菌具有较高的耐药性，既往广谱抗生素的暴露也是高危因素。表皮葡萄球菌也是眼部感染的重要致病菌，是眼内炎最常见的检出菌之一。
+Staphylococcus equorum,Background,马胃葡萄球菌,246432,bacteria,常见背景微生物
+Staphylococcus haemolyticus,Both,溶血葡萄球菌,1283,bacteria,溶血葡萄球菌是一群革兰氏阳性球菌，因常堆聚成葡萄串状，故名。多数为非致病菌，少数可导致疾病。有报道显示在结膜炎患者结膜囊分泌物中分离得到溶血葡萄球菌。
+Staphylococcus hominis,Both,人型葡萄球菌,1290,bacteria,人葡萄球菌是一种凝固酶阴性葡萄球菌，常见于医源性感染，是尿路感染、手术后外伤感染、肺部感染的常见病原菌，也是血培养中主要的病原菌。在眼科中有报道可引起感染性眼内炎。
+Staphylococcus lugdunensis,Both,路邓葡萄球菌,28035,bacteria,路邓葡萄球菌是隶属于葡萄球菌凝固酶阴性的革兰氏阳性菌，是人类皮肤的正常菌（通常定植于会阴区），在其他部位可以引起多重感染。相较其他凝固酶阴性的葡萄球菌，路邓葡萄球菌毒力强，可引起跟金黄色葡萄球菌感染类似的心内膜炎、骨髓炎、腹膜炎、淋巴结炎、眼炎、皮肤软组织感染、血流感染、中枢神经系统感染、骨关节感染等。有文献报道路邓葡萄球菌可引起急性化脓性角膜炎和急性眼内炎，大多数报告的路邓链球菌性眼内炎病例的特点是眼内手术或开放性眼球损伤后约1周隐匿发作，伴有严重的无痛性视力丧失，通过及时诊断和治疗通常可以获得良好的视力预后。
+Staphylococcus nepalensis,Background,尼泊尔葡萄球菌,214473,bacteria,常见背景微生物
+Staphylococcus pasteuri,Background,巴氏葡萄球菌,45972,bacteria,常见背景微生物
+Staphylococcus pettenkoferi,Background,S. pettenkoferi葡萄球菌,170573,bacteria,常见背景微生物
+Staphylococcus saccharolyticus,Background,解糖葡萄球菌,33028,bacteria,常见背景微生物
+Staphylococcus saprophyticus,Both,腐生葡萄球菌,29385,bacteria,腐生葡萄球菌是隶属于葡萄球菌属凝固酶阴性的革兰氏阳性菌，是女性生殖道的定植菌，该菌也广泛存在于环境、肉类和奶酪产品、蔬菜、人和动物的胃肠道中。在眼科被报道可引起白内障术后眼内炎。
+Staphylococcus simiae,Background,金猿葡萄球菌,308354,bacteria,常见背景微生物
+Staphylococcus succinus,Background,琥珀葡萄球菌,61015,bacteria,常见背景微生物
+Staphylococcus warneri,Both,沃氏葡萄球菌,1292,bacteria,"沃氏葡萄球菌是葡萄球菌属的一种, 主要存在于环境及人与动物的皮肤和粘膜上, 是一种革兰氏阳性的球形bacteria。在眼科中曾有报道引起泪囊炎以及白内障术后感染性眼内炎。"
+Staphylococcus xylosus,Background,木糖葡萄球菌,1288,bacteria,常见背景微生物
+Stenotrophomonas maltophilia,Both,嗜麦芽窄食单胞菌,40324,bacteria,嗜麦芽窄食单胞菌是专性需氧革兰氏阴性杆菌，是一种机会性致病菌。该菌可引起呼吸道、泌尿道和伤口感染及心内膜炎、脑膜炎、附睾炎、关节炎、胆管炎、眼内炎以及腹膜透析有关的腹膜炎等。
+Streptococcus agalactiae,Both,无乳链球菌,1311,bacteria,无乳链球菌又名B群链球菌（GBS），为革兰阳性bacteria，是一种寄生于人类下消化道及泌尿生殖道的条件致病菌，眼科报道的无乳链球菌感染主要为内源性眼内炎，GBS感染占内源性眼内炎病因的5.2%，视力预后较差。
+Streptococcus anginosus,Both,咽峡炎链球菌,1328,bacteria,咽峡炎链球菌属米勒链球菌群，为革兰氏阳性菌。属于条件致病菌，易导致脓肿形成。可引起根管感染、头颈部感染、中枢神经系统感染、腹腔感染、胸腔感染、心内膜炎、菌血症等多部位感染。咽峡炎链球菌眼部感染最常见的表现是眼眶蜂窝组织炎。
+Streptococcus australis,Both,澳大利亚链球菌,113107,bacteria,澳大利亚链球菌属于革兰阳性球菌，从儿童口腔中分离出的链球菌菌株，且文献报道澳大利亚链球菌属和口腔链球菌有较近的亲缘性，暂无澳大利亚链球菌致眼部疾病的相关报道，但口腔链球菌可导致眼内炎。
+Streptococcus constellatus,Background,星座链球菌,76860,bacteria,常见背景微生物
+Streptococcus cristatus,Both,嵴链球菌,45634,bacteria,嵴链球菌属链球菌属，为革兰氏阳性菌。定植于口腔，皮肤以及胃肠道中。能抑制牙周致病菌的毒力，降低牙周炎发病的危险性。临床文献报告1例由嵴链球菌导致的腕部感染性关节炎。
+Streptococcus dysgalactiae,Pathogenicity,停乳链球菌,1334,bacteria,停乳链球菌可引起菌血症、心内膜炎、脑膜炎、脓毒症、关节炎、呼吸道和皮肤感染等疾病。在眼科中有报道停乳链球菌可致眼内炎。
+Streptococcus equinus,Both,马链球菌,1335,bacteria,常见背景微生物
+Streptococcus gordonii,Both,戈登链球菌,1302,bacteria,戈登链球菌是革兰阳性的草绿色链球菌之一，属于草绿色链球菌分类中的血液链球群，是人类口腔粘膜的共生菌，大量存在于牙齿的表面，其一般无致病性，通常在外伤和侵入性操作的医疗行为后发生感染。有报道1例XEN45凝胶支架植入引起的眼内炎，和1例眼睑溃疡性肉芽肿。
+Streptococcus halitosis,Pathogenicity,口臭链球菌,2172545,bacteria,口臭链球菌是一种革兰氏阳性厌氧球菌，是从口臭患者舌背分离出的新型bacteria，该菌能够产生一种挥发性硫化合物（VSC）引起的难闻气味，常引起口臭。
+Streptococcus intermedius,Background,中间链球菌,1338,bacteria,常见背景微生物
+Streptococcus mitis,Both,缓症链球菌,28037,bacteria,缓症链球菌属于人体正常菌群之一，分布口腔为多，是感染性心内膜炎的主要病原菌。在眼科中有引起感染性眼内炎的报道。
+Streptococcus oralis,Both,口腔链球菌,1303,bacteria,口腔链球菌为革兰氏染色阳性，兼性厌氧菌。口腔链球菌感染眼部形成眼内炎是玻璃体内注射贝伐单抗的一种破坏性并发症，具有高眼球丢失率和多种严重的病理组织改变，主要临床表现为视网膜脱离、纤维增生伴睫状体膜形成、虹膜红斑和继发性闭角，持续性脉络膜炎症。另有临床报道在复杂的虹膜固定有晶状体眼内 (pIOL) 晶状体植入后发生的轻度口腔链球菌眼内炎感染的案例。
+Streptococcus pneumoniae,Both,肺炎链球菌,1313,bacteria,肺炎链球菌通常寄居于正常人的鼻咽腔，多数不致病，只有少数有毒力。当机体抵抗力下降时常可侵入肺组织引起肺炎。此外也可致败血症、鼻窦炎、 中耳炎、眼内炎和化脓性脑膜炎。
+Streptococcus pseudopneumoniae,Background,假肺炎链球菌,257758,bacteria,常见背景微生物
+Streptococcus pyogenes,Both,化脓链球菌,1314,bacteria,化脓链球菌是革兰氏阳性菌，又称作A组链球菌。口咽粘膜及伤口是常见的定植部位，可存在无症状携带者。化脓性链球菌是眼科中较为罕见的眼部病原体，化脓性链球菌可以感染免疫正常患者的健康角膜，常见的是眼睑炎、结膜炎和角膜炎。全球可识别bacteria的眼部感染平均4.3%继发于化脓性链球菌。感染症状为角膜瘢痕、穿孔和眼内炎等并发症。
+Streptococcus salivarius,Both,唾液链球菌,1304,bacteria,唾液链球菌是革兰氏阳性菌，兼性厌氧菌，属于口腔链球菌，主要存在于人的口腔和上呼吸道中，为条件致病菌。有报道唾液链球菌引起的玻璃体腔药物注射后急性眼内炎1例，病情恶化迅速，伴有视网膜血管炎。也有报道该菌引起的内源性眼内炎和角膜交联术后角膜炎。
+Streptococcus sanguinis,Both,血红链球菌,1305,bacteria,该菌常寄居于鼻咽、口腔、龈隙、消化道、女性生殖道，偶见于皮肤，是牙周的有益菌，但又属条件致病菌，当拔牙或摘除扁桃体时，寄居在口腔、龈隙中的bacteria即可侵入血流，一般情况下，少量菌很快被肝、脾、淋巴结和骨髓中的吞噬细胞所清除。若心瓣膜有病损或人工瓣膜者，bacteria就可定植繁殖，引起心内膜炎。有免疫缺陷或有基础疾病的患者可导致败血症，也可成为脑、肝和腹腔内感染的病原菌。在眼科中，有研究报道该菌是青光眼滤过手术继发眼内炎的常见病原体之一。
+Streptococcus suis,Pathogenicity,猪链球菌,1307,bacteria,猪链球菌(SS)是猪链球菌病的主要病原菌，同时也是一种重要的人畜共患病病原体，可引起人脑膜炎，其次是败血症、关节炎、心内膜炎和眼内炎。
+Streptococcus vestibularis,Pathogenicity,前庭链球菌,1343,bacteria,前庭链球菌是一种α溶血性链球菌，是viridans组的成员，该组首先从人口腔的前庭粘膜中分离出来，与唾液链球菌存在共生现象。并于1988年被描述为新物种。它很少与人类感染相关。有报道称它是免疫抑制成人和患有其他严重基础疾病（例如冠状动脉瓣膜疾病）患者全身感染的病因。与感染性心内膜炎、椎骨骨髓炎以及大肠癌等胃肠道疾病有一定相关性。临床曾报道一例ICRS植入后由前庭链球菌引起的角膜炎，起病症状为眼红眼痛、视力丧失，眼科检查发现有沿环段的点状白色浸润和角膜基质水肿。
+Suid alphaherpesvirus 1,Both,猪疱疹viral1 型/伪狂犬病viral,10345,viral,猪疱疹viral 1 型，又称为伪狂犬病viral，是一种双链 DNA 包膜viral，以猪为自然宿主，可感染多种家畜及野生动物。2018 年以来，相继有研究者在基因水平上证实了人感染 PRV 病例的存在。结合已报道病例， 人感染猪疱疹viral 1 型可引起脑炎、视网膜炎或眼内炎。
+Torque teno midi virus 8,Background,TTMDV,2065049,viral,常见背景微生物
+Torque teno virus,Background,TTV,68887,viral,常见背景微生物
+Torque teno virus 10,Background,TTV-10,687349,viral,常见背景微生物
+Torque teno virus 11,Background,TTV-11,687350,viral,常见背景微生物
+Torque teno virus 12,Background,TTV-12,687351,viral,常见背景微生物
+Torque teno virus 13,Background,TTV-13,687352,viral,常见背景微生物
+Torque teno virus 16,Background,TTV-16,687355,viral,常见背景微生物
+Torque teno virus 18,Background,TTV-18,687357,viral,常见背景微生物
+Torque teno virus 19,Background,TTV-19,687358,viral,常见背景微生物
+Torque teno virus 20,Background,TTV-20,687359,viral,常见背景微生物
+Torque teno virus 22,Background,TTV-22,687361,viral,常见背景微生物
+Torque teno virus 24,Background,TTV-24,687363,viral,常见背景微生物
+Torque teno virus 27,Background,TTV-27,687366,viral,常见背景微生物
+Torque teno virus 29,Background,TTV-29,687368,viral,常见背景微生物
+Torque teno virus 7,Background,TTV-7,687346,viral,常见背景微生物
+Toxoplasma gondii,Both,刚地弓形虫,5811,protozoa,弓形虫是一种专性细胞内原虫。弓形虫病是由刚地弓形虫引起的感染性疾病，表现为中枢神经系统和其他系统受累。刚地弓形虫可引起眼弓形虫病，其主要表现为弓形虫性视网膜脉络膜炎，典型的眼部表现为局灶性坏死性视网膜炎，活动性与陈旧性往往同时存在，形成“卫星”状病灶。
+Treponema pallidum,Both,梅毒螺旋体,160,bacteria,梅毒螺旋体可引起梅毒，梅毒是一种性传播或血源性感染疾病，在眼部可引起多种类型的梅毒性葡萄膜炎，如角膜葡萄膜炎、急性虹膜睫状体炎、脉络膜视网膜炎、视网膜血管炎等。
+Vittaforma corneae,Both,Vittaforma corneae,42399,fungi,Vittaformacorneae通过感染性孢子通过空气或水传播。Vittaforma corneae可引起角结膜炎，其病程较长，表现为眼红眼痛，基质浸润和角膜变薄，Vittaforma corneae也被报道可引起微孢子虫性眼内炎，可有玻璃体出血、多灶性视网膜炎、动脉炎和黄斑水肿渗出表现。
+Weizmannia coagulans,Both,凝结芽孢杆菌,1398,bacteria,又称Bacillus coagulans，凝结芽孢杆菌是兼性厌氧革兰氏阳性菌，在有氧及无氧的环境下都可生长，能适应低氧的肠道环境，对酸和胆汁有较高的耐受性，能够进行乳酸发酵，产生的L-乳酸能降低肠道pH值，抑制有害菌，并能促进双歧杆菌等有益菌的生长和繁殖。凝结芽孢杆菌能够形成芽孢，与其他不产乳酸的芽孢杆菌相比有利于恢复胃肠道的微生态平衡。由于其优异的稳定性，它已被广泛应用于医药，食品和化学工业。该属微生物易引起免疫低下患者角膜感染，其中最常见的眼科病原体为蜡样芽胞杆菌。
