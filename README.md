@@ -37,7 +37,7 @@ bwa index -p hg38 GCF_000001405.40_GRCh38.p14_genomic.fna.gz
 
 For estimate_attention_index.r,
 
-```shell
+```R
 concerned_pathogens_V1 <- read.csv("PATH_TO_YOUR_PATHOGEN_FILE/known_pathogen_background_V1.0.csv", header = T, fill = TRUE)[,1:3]
 ```
 
