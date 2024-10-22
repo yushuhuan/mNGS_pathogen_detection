@@ -24,7 +24,7 @@ git clone https://github.com/ShuhuanYu/mNGS_pathogen_detection.git
 ### Step3: Download "nt" database
 
 You can download indexed "nt" database by click [https://benlangmead.github.io/aws-indexes/k2](https://benlangmead.github.io/aws-indexes/k2)
-
+![image](https://github.com/ShuhuanYu/mNGS_pathogen_detection/blob/main/images/kraken2-nt.png)
 ### Step4: Download "hg38" genome and index it
 
 ```shell
