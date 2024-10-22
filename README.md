@@ -122,3 +122,7 @@ attention_level speciescn       tax_id  all_reads       CPM     Rank    Domain  
         奥斯陆莫拉菌    34062   42      85.34   16      Bacteria        Moraxella       Moraxella osloensis     0.01%   0.3%    0.09%    2       Both
         琼氏不动杆菌    40215   25      50.8    28      Bacteria        Acinetobacter   Acinetobacter junii     0.01%   0.18%   0.05%    2       Both
 ```
+
+## Contribute
+
+Thanks to Prof. TaoYong. Thanks to Xue yong, Qian zhuyun and Wang lu. Thanks for their supporting and helping.
