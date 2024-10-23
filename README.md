@@ -39,7 +39,7 @@ bwa index -p hg38 GCF_000001405.40_GRCh38.p14_genomic.fna.gz
 For estimate_attention_index.r,
 
 ```R
-concerned_pathogens_V1 <- read.csv("PATH_TO_YOUR_PATHOGEN_FILE/known_pathogen_background_V1.0.csv", header = T, fill = TRUE)[,1:3]
+concerned_pathogens_V1 <- read.csv("PATH_TO_YOUR_PATHOGEN_FILE/known_pathogen_databse_V1.0.csv", header = T, fill = TRUE)[,1:3]
 ```
 
 Pathogen database is very important for mngs detection and annotation. Different organizations and different directions correspond to different reference databases. Reference databases need to be regularly updated and maintained to ensure the accuracy of pathogen detection and annotation.
@@ -123,6 +123,8 @@ attention_level speciescn       tax_id  all_reads       CPM     Rank    Domain  
         奥斯陆莫拉菌    34062   42      85.34   16      Bacteria        Moraxella       Moraxella osloensis     0.01%   0.3%    0.09%    2       Both
         琼氏不动杆菌    40215   25      50.8    28      Bacteria        Acinetobacter   Acinetobacter junii     0.01%   0.18%   0.05%    2       Both
 ```
+
+Besides above 3 output files, this framework can also calculate coverage fro each pathogen, and Provide humanized visualization results, such as genome coverage across reference. You can see more details from "coverage_output" folder.
 
 ## Contribute
 
