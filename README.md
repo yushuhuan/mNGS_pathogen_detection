@@ -1,6 +1,6 @@
 # Pathogen detection for DNA-based-mNGS intraocular fluid data
 
-This is a simple framework which can be used to analysis DNA-based-mNGS intraocular fluid data. It based on mainstream analysis tools, including qualiity control, mapping, remove host sequences and fast multiple alignment. We designed several scripts to execute analysis.
+This is a simple framework which can be used to analysis DNA-based-mNGS intraocular fluid data. It based on mainstream analysis tools, including quality control, mapping, remove host sequences and fast multiple alignment. We designed several scripts to execute analysis.
 
 ## Turorial
 
@@ -25,6 +25,7 @@ git clone https://github.com/ShuhuanYu/mNGS_pathogen_detection.git
 
 You can download indexed "nt" database by click [https://benlangmead.github.io/aws-indexes/k2](https://benlangmead.github.io/aws-indexes/k2)
 ![image](https://github.com/ShuhuanYu/mNGS_pathogen_detection/blob/main/images/kraken2-nt.png)
+
 ### Step4: Download "hg38" genome and index it
 
 ```shell
@@ -91,7 +92,7 @@ This is a standard report of kraken2, including 6 columns.
 
 ### 2-$sample_id.pathogen_with_genius_and_domain.txt
 
-This file contains all "species" level pathogen detected by kraken2. Besides, species normalization and relative aboundance wa caculated by R. 
+This file contains all "species" level pathogen detected by kraken2. Besides, species normalization and relative aboundance wa caculated by R.
 
 ```shell
 Rank    tax_id  Domain  Genius  Species all_reads       CPM     percent aboundance_based_domain aboundance_based_species
