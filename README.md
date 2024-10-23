@@ -125,7 +125,7 @@ attention_level speciescn       tax_id  all_reads       CPM     Rank    Domain  
 ```
 
 Besides above 3 output files, this framework can also calculate coverage fro each pathogen, and Provide humanized visualization results, such as genome coverage across reference. You can see more details from "coverage_output" folder.
-
+![image](https://github.com/yushuhuan/mNGS_pathogen_detection/blob/main/images/genome_coverage_across_reference.png)
 ## Contribute
 
 Thanks to Prof. TaoYong. Thanks to Xue yong, Dr. Qian zhuyun and Wang lu. Thanks for their supporting and helping.
