@@ -194,4 +194,38 @@ Rscript /opt/mNGS/ZhiDe-mNGS-analysis-V3/estimate_attention_index.r \
         /opt/ossfs/mNGS_pipeline_output/V3/$sample_id \
         $sample_id
 
+
+### 计算病原覆盖度
+printf "\033[40:32m开始计算覆盖度……\033[0m\n"
+
+### 计算所有比对到智德病原数据库的病原的覆盖度
+cd /opt/ossfs/mNGS_pipeline_output/V3/$sample_id
+mkdir coverage_output
+cd coverage_output
+
+sed "1d" /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id.pathogen_report.txt | while IFS="\t" read -r line
+do
+    species=$(echo "$line" | awk -v FS="\t" '{print $9}')
+    species_ref=${species// /_}
+
+    mkdir /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref
+
+    # 提取病原对应的reads序列
+    cat /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id.classified.nt.output | grep "$species" | awk -v FS="\t" '{print $2}' | seqtk subseq /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id.unmapped.rmDup.sorted.fastq - > /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref/$sample_id.$species_ref.fastq
+
+    # 比对
+    bwa mem -t 8 /opt/ossfs/pathogen_reference_databases/ZhiDe_ref_DB_V1.0/$species_ref/$species_ref /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref/$sample_id.$species_ref.fastq >/opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref/$sample_id.$species_ref.sam
+    samtools view -bS /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref/$sample_id.$species_ref.sam > /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref/$sample_id.$species_ref.bam
+    samtools sort /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref/$sample_id.$species_ref.bam -o /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref/$sample_id.$species_ref.sorted.bam
+
+    # 计算覆盖度
+    /opt/softwares/qualimap_v2.3/qualimap bamqc -bam /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref/$sample_id.$species_ref.sorted.bam -outdir /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref
+
+    # 删除中间文件，保留病原的原始序列
+    rm /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref/$sample_id.$species_ref.sam
+    rm /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref/$sample_id.$species_ref.bam
+    rm /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/coverage_output/$species_ref/$sample_id.$species_ref.sorted.bam
+done
+printf "\033[40:32m覆盖度计算完成\033[0m\n\n"
+
 printf "\033[40:32m任务完成！\033[0m\n"
