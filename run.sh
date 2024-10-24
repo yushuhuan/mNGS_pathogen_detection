@@ -71,10 +71,16 @@ printf "\033[40:32m开始处理样本$sample_id……\033[0m\n\n"
 
 # 寻找服务器上原始fastq文件 ###
 printf "\033[40:32m正在搜索云服务器并寻找原始fastq文件……\033[0m\n\n"
-sample_fq_file=$(find /opt/ossfs/mNGS-data/RawData -name $sample_id".fq.gz")
+sample_fq_file=$(find /opt/ossfs/mNGS-data/RawData -name $sample_id"-CF.fq.gz")
 if [ ! $sample_fq_file ];then
-    printf "\033[41:30mError：未找到$sample_id.fq.gz,请确认其是否存在，若不存在，请上传至云服务器！\033[0m\n"
-    exit 1
+    sample_fq_file=$(find /opt/ossfs/mNGS-data/RawData -name $sample_id"-R.fq.gz")
+    if [ ! $sample_fq_file ];then
+        sample_fq_file=$(find /opt/ossfs/mNGS-data/RawData -name $sample_id".fq.gz")
+        if [ ! $sample_fq_file ];then
+            printf "\033[41:30mError：未找到$sample_id.fq.gz,请确认其是否存在，若不存在，请上传至云服务器！\033[0m\n"
+            exit 1
+        fi
+    fi
 fi
 
 cd /opt/ossfs/mNGS_pipeline_output/V3
