@@ -125,7 +125,7 @@ attention_level speciescn       tax_id  all_reads       CPM     Rank    Domain  
         琼氏不动杆菌    40215   25      50.8    28      Bacteria        Acinetobacter   Acinetobacter junii     0.01%   0.18%   0.05%    2       Both
 ```
 ## Coverage output
-Besides above 3 output files, this framework can also calculate coverage fro each pathogen, and Provide humanized visualization results, such as genome coverage across reference. You can see more details from "coverage_output" folder.
+Besides above 3 output files, this framework can also calculate coverage fro each pathogen, and provide personalized visualization results, such as genome coverage across reference. You can see more details from "coverage_output_demo" folder.
 ![image](https://github.com/yushuhuan/mNGS_pathogen_detection/blob/main/images/genome_coverage_across_reference.png)
 ## Contribute
 
