@@ -24,6 +24,7 @@ git clone https://github.com/ShuhuanYu/mNGS_pathogen_detection.git
 ### Step3: Download "nt" database
 
 You can download indexed "nt" database by click [https://benlangmead.github.io/aws-indexes/k2](https://benlangmead.github.io/aws-indexes/k2)
+
 ![image](https://github.com/ShuhuanYu/mNGS_pathogen_detection/blob/main/images/kraken2-nt.png)
 
 ### Step4: Download "hg38" genome and index it
@@ -123,9 +124,9 @@ attention_level speciescn       tax_id  all_reads       CPM     Rank    Domain  
         奥斯陆莫拉菌    34062   42      85.34   16      Bacteria        Moraxella       Moraxella osloensis     0.01%   0.3%    0.09%    2       Both
         琼氏不动杆菌    40215   25      50.8    28      Bacteria        Acinetobacter   Acinetobacter junii     0.01%   0.18%   0.05%    2       Both
 ```
-
-Besides above 3 output files, this framework can also calculate coverage fro each pathogen, and Provide humanized visualization results, such as genome coverage across reference. You can see more details from "coverage_output" folder.
-
+## Coverage output
+Besides above 3 output files, this framework can also calculate coverage fro each pathogen, and provide personalized visualization results, such as genome coverage across reference. You can see more details from "coverage_output_demo" folder.
+![image](https://github.com/yushuhuan/mNGS_pathogen_detection/blob/main/images/genome_coverage_across_reference.png)
 ## Contribute
 
 Thanks to Prof. TaoYong. Thanks to Xue yong, Dr. Qian zhuyun and Wang lu. Thanks for their supporting and helping.
