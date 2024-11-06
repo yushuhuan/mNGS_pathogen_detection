@@ -135,19 +135,19 @@ extracted_result$speciescn <- as.character(extracted_result$speciescn)
 
 extracted_result$attention_level <- apply(extracted_result, 1,function(x){
     species = x[1]
-    rank = x[2]
+    rank = as.numeric(x[2])
     domain = x[4]
     genius = x[5]
-    reads_num = x[6]
-    aboundance_based_species = x[10]
-    reads_in_NC = x[11]
+    reads_num = as.numeric(x[6])
+    aboundance_based_species = as.numeric(x[10])
+    reads_in_NC = as.numeric(x[11])
     label = x[12]
 
     attention_level = ""
 
     # 根据 domain 的值调用不同的函数
     if (domain == "Bacteria") {
-        attention_level = bacteria_attention(species, rank, genius, aboundance_based_species, reads_in_NC, extracted_result)
+        attention_level = bacteria_attention(species, reads_num, rank, genius, aboundance_based_species, reads_in_NC)
     } else if (domain == "Eukaryota") {
         attention_level = fungi_attention(species, rank, genius)
     } else if (domain == "Viruses") {

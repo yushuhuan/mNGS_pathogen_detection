@@ -12,7 +12,7 @@ sample_id <- args[3]
 
 # print(classified_nt_filename)
 
-classified_nt <- read.table(classified_nt_filename, sep = "\t", header = F, stringsAsFactors = F)
+classified_nt <- read.table(classified_nt_filename, sep = "\t", header = F, stringsAsFactors = F, quote = "")
 colnames(classified_nt) <- c("percent", "all_reads", "unque_reads", "tax_level", "tax_id", "name")
 classified_nt$line_num <- 1:dim(classified_nt)[1]
 
