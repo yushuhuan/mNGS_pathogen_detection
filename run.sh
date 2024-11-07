@@ -3,10 +3,16 @@
 ### 传入定参数
 sample_id=$1
 NC_id=$2
+cd /opt/ossfs/mNGS_pipeline_output/V3
+if [ ! -d $sample_id ];then
+    mkdir -p "$sample_id"
+fi
 
 printf "\033[40:32m正在处理样本id为:$sample_id, 阴性对照样本(NC)id为$NC_id的任务……\033[0m\n\n"
 
 ### 首先处理NC样本
+printf "$sample_id: Step1-对照样本分析\n" >/opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id/$sample_id.step.log
+
 printf "\033[40:32m正在分析阴性对照样本$NC_id……\033[0m\n"
 if [ -s /opt/ossfs/mNGS_pipeline_output/NC_samples/$NC_id/$NC_id.species.reads.info ];then
     printf "\033[40:32m$NC_id分析已完成\033[0m\n\n"
@@ -70,6 +76,8 @@ fi
 printf "\033[40:32m开始处理样本$sample_id……\033[0m\n\n"
 
 # 寻找服务器上原始fastq文件 ###
+printf "$sample_id: Step2-样本原始fastq文件搜寻\n" >>/opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id/$sample_id.step.log
+
 printf "\033[40:32m正在搜索云服务器并寻找原始fastq文件……\033[0m\n\n"
 sample_fq_file=$(find /opt/ossfs/mNGS-data/RawData -name $sample_id"-CF.fq.gz")
 if [ ! $sample_fq_file ];then
@@ -83,10 +91,7 @@ if [ ! $sample_fq_file ];then
     fi
 fi
 
-cd /opt/ossfs/mNGS_pipeline_output/V3
-if [ ! -d $sample_id ];then
-    mkdir -p "$sample_id"
-fi
+
 cd $sample_id
 
 # 计算原始序列数
@@ -99,6 +104,8 @@ fi
 
 
 # 原始数据预处理，去除接头及低质量序列
+printf "$sample_id: Step23-样本质控\n" >>/opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id/$sample_id.step.log
+
 printf "\033[40:32m开始质控……\033[0m\n"
 fastp -i $sample_fq_file --thread 8 \
             -o /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id.fastp.filtered.fastq.gz \
@@ -121,6 +128,8 @@ percent_Q30=$(cat /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id.qc_su
 printf "\033[43:30mQ30比例为:$percent_Q30\033[0m\n\n"
 
 ## 去除人源宿主序列，参考基因组hg38（bwa mem的敏感性比bowtie2高一些，能去除更多的人源序列，提高微生物富集水平）
+printf "$sample_id: Step4-去除人源序列\n" >>/opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id/$sample_id.step.log
+
 printf "\033[40:32m开始去除人源序列……\033[0m\n"
 bwa mem -t 8 /opt/ossfs/pathogen_reference_databases/bwa_index/homo_sapiens/GRCh38_latest_genomic.fna /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id.fastp.filtered.fastq.gz >/opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id.mapping.sam
 
@@ -154,6 +163,8 @@ printf "\033[43:30m去除人源序列后的序列数为：$microbiome_reads_numb
 printf "\033[40:32m人源序列去除完成\033[0m\n\n"
 
 # picard去除PCR重复(其实如果是RNA的话一般不去重复，因为RNA数据起始量高，且存在某些基因表达高某些基因表达低的情况；但考虑到mNGS实验过程中起始量低，PCR扩增数较高，因此去除重复能更好的校正之后的微生物相对丰度)
+printf "$sample_id: Step5-去除PCR重复\n" >>/opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id/$sample_id.step.log
+
 printf "\033[40:32m开始去重复……\033[0m\n"
 java -jar /opt/softwares/Picard/picard.jar MarkDuplicates \
     -I /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id.unmapped.sorted.bam \
@@ -172,6 +183,8 @@ samtools fastq -@ 8 -n /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id.
 
 #################################################################################################################
 
+printf "$sample_id: Step6-病原分类\n" >>/opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id/$sample_id.step.log
+
 printf "\033[40:32m开始分类……\033[0m\n"
 kraken2 --db /opt/mNGS/kraken2_index/nt \
                 --threads 8 \
@@ -186,6 +199,8 @@ classified_reads_kraken2=$(cat $sample_id.classified.nt.report | awk 'NR==2{prin
 printf "\033[43:30mkraken2 分类序列数：$classified_reads_kraken2\033[0m\n\n"
 
 ## 对分类结果进行过滤，标注和中英文标注
+printf "$sample_id: Step7-个性化注释\n" >>/opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id/$sample_id.step.log
+
 # 1  提取全部species分类病原的genius,domain,reads_num,rank等信息，并分别计算基于domain和species的相对丰度
 Rscript /opt/mNGS/ZhiDe-mNGS-analysis-V3/get_genius_and_kingdom_info.r \
         /opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id.classified.nt.report \
@@ -202,6 +217,8 @@ Rscript /opt/mNGS/ZhiDe-mNGS-analysis-V3/estimate_attention_index.r \
 
 
 ### 计算病原覆盖度
+printf "$sample_id: Step8-覆盖度计算\n" >>/opt/ossfs/mNGS_pipeline_output/V3/$sample_id/$sample_id/$sample_id.step.log
+
 printf "\033[40:32m开始计算覆盖度……\033[0m\n"
 
 ### 计算所有比对到智德病原数据库的病原的覆盖度
