@@ -27,40 +27,10 @@ You can download indexed "nt" database by click [https://benlangmead.github.io/a
 
 ![image](https://github.com/ShuhuanYu/mNGS_pathogen_detection/blob/main/images/kraken2-nt.png)
 
-### Step4: Download "hg38" genome and index it
+### Step5:  Execute analysis
 
 ```shell
-cd PATH_TO_YOUR_DIR/ref
-wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_genomic.fna.gz
-bwa index -p hg38 GCF_000001405.40_GRCh38.p14_genomic.fna.gz
-```
-
-### Step5: Modify script parameters
-
-For estimate_attention_index.r,
-
-```R
-concerned_pathogens_V1 <- read.csv("PATH_TO_YOUR_PATHOGEN_FILE/known_pathogen_databse_V1.0.csv", header = T, fill = TRUE)[,1:3]
-```
-
-Pathogen database is very important for mngs detection and annotation. Different organizations and different directions correspond to different reference databases. Reference databases need to be regularly updated and maintained to ensure the accuracy of pathogen detection and annotation.
-
-For run.sh,
-
-```shell
-kraken2 --db PATH_TO_YOU_NT_DATABASE \
-                --threads 8 \
-                --output $sample_id.classified.nt.output \
-                -report $sample_id.classified.nt.report \
-                --memory-mapping \
-                --use-names \
-                $sample_id.unmapped.rmDup.sorted.fastq
-```
-
-### Step6:  Execute analysis
-
-```shell
-bash run.sh SAMPLE-ID NC-ID
+bash single_run.sh --help
 ```
 
 ## Output files
