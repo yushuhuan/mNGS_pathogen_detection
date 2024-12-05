@@ -1,29 +1,22 @@
-# install.packages("dplyr")
-library(dplyr)
+# 尝试加载 dplyr 包，如果没有安装，则安装它
+if (!require(dplyr)) {
+  install.packages("dplyr", repos = "https://mirrors.tuna.tsinghua.edu.cn/CRAN/")
+  library(dplyr, quietly = TRUE)
+} else {
+  library(dplyr, quietly = TRUE)
+}
 
 args <- commandArgs(trailingOnly = TRUE)
 input_filename <- args[1]
-NC_input_filename <- args[2]
-output_dir <- args[3]
-sample_id <- args[4]
+output_dir <- args[2]
+sample_id <- args[3]
 
 input <- read.table(input_filename, header = T,sep = "\t")
-NC_input <- read.table(NC_input_filename, header = T,sep = "\t")
-
-colnames(NC_input)[3] <- "Reads_num_in_NC"
-colnames(NC_input)[2] <- "taxid_NC"
-colnames(NC_input)[1] <- "name"
-NC_input <- NC_input %>% select(name, Reads_num_in_NC)
-
-classified_with_NC <- merge(input, NC_input, by.x = "Species", by.y = "name", all.x = TRUE)
-classified_with_NC[is.na(classified_with_NC$Reads_num_in_NC), 9] <- 0
-
-classified_with_NC <- classified_with_NC %>% arrange(Rank)
 
 ### 获取致病性及常见背景微生物label
-concerned_pathogens_V1 <- read.csv("/opt/mNGS/ZhiDe-mNGS-analysis-V3/known_pathogen_database_V1.0.csv", header = T, fill = TRUE)[,1:3]
+concerned_pathogens_V1 <- read.csv("known_pathogen_database_V1.0.csv", header = T, fill = TRUE)[,1:3]
 
-labled_result <- merge(classified_with_NC, concerned_pathogens_V1, by.x = "Species", by.y = "species", all.x = TRUE)
+labled_result <- merge(input, concerned_pathogens_V1, by.x = "Species", by.y = "species", all.x = TRUE)
 labled_result <- labled_result %>% arrange(Rank)
 
 extracted_result <- labled_result %>% filter(is.na(label)=="FALSE") %>% arrange(desc(all_reads))
@@ -140,14 +133,13 @@ extracted_result$attention_level <- apply(extracted_result, 1,function(x){
     genius = x[5]
     reads_num = as.numeric(x[6])
     aboundance_based_species = as.numeric(x[10])
-    reads_in_NC = as.numeric(x[11])
     label = x[12]
 
     attention_level = ""
 
     # 根据 domain 的值调用不同的函数
     if (domain == "Bacteria") {
-        attention_level = bacteria_attention(species, reads_num, rank, genius, aboundance_based_species, reads_in_NC)
+        attention_level = bacteria_attention(species, reads_num, rank, genius, aboundance_based_species)
     } else if (domain == "Eukaryota") {
         attention_level = fungi_attention(species, rank, genius)
     } else if (domain == "Viruses") {
@@ -166,8 +158,8 @@ extracted_result$percent <- paste0(extracted_result$percent, "%")
 extracted_result$aboundance_based_domain <- paste0(extracted_result$aboundance_based_domain, "%")
 extracted_result$aboundance_based_species <- paste0(extracted_result$aboundance_based_species, "%")
 
-extracted_result <- extracted_result %>% select(attention_level, speciescn, tax_id, all_reads, CPM, Rank, Domain, Genius, Species, percent, aboundance_based_domain, aboundance_based_species, Reads_num_in_NC, label)
-colnames(extracted_result)[14] <- "label_experience"
+extracted_result <- extracted_result %>% select(attention_level, speciescn, tax_id, all_reads, CPM, Rank, Domain, Genius, Species, percent, aboundance_based_domain, aboundance_based_species, label)
+# colnames(extracted_result)[14] <- "label_experience"
 
 str(extracted_result)
 write.table(extracted_result, paste0(output_dir, "/", sample_id, ".pathogen_report.txt"), row.names = F, sep = "\t", quote = F, fileEncoding = "UTF-8")

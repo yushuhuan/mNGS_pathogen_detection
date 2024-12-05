@@ -1,7 +1,16 @@
-# install.packages("dplyr")
-# install.packages("stringr")
-library(dplyr, quietly = TRUE)
-library(stringr, quietly = TRUE)
+if (!require(dplyr)) {
+  install.packages("dplyr", repos = "https://mirrors.tuna.tsinghua.edu.cn/CRAN/")
+  library(dplyr, quietly = TRUE)
+} else {
+  library(dplyr, quietly = TRUE)
+}
+
+if (!require(stringr)) {
+  install.packages("stringr")
+  library(stringr, quietly = TRUE)
+} else {
+  library(stringr, quietly = TRUE)
+}
 
 
 ## 从终端获取参数
